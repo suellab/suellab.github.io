@@ -10,7 +10,7 @@ tags: []
 
 [Bistable emergence of oscillations in growing Bacillus subtilis biofilms](http://www.pnas.org/content/early/2018/08/17/1805004115)  
 Martinez-Corral R., Liu, J., Süel G.M., and Garcia-Ojalvo J.  
-PNAS, 2018; doi: https://doi.org/10.1073/pnas.1805004115 (epub ahead of print).
+Proc Natl Acad Sci U S A., September 4, 2018 115 (36) E8333-E8340;
  	 
 [Signal percolation within a bacterial community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X)  
 Larkin J.W., Zhai X., Kikuchi K., Redford S., Prindle A., Liu J.,Greenfield S., Walczak A.M., Garcia-Ojalvo J., Mugler A. and Süel G.M.  
