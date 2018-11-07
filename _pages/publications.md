@@ -1,3 +1,11 @@
+---
+permalink: /publications/
+title: Publications
+layout: single
+tags: []
+
+---
+
 ## Journal Articles
 
 
