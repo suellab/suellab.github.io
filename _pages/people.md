@@ -17,7 +17,7 @@ feature_row:
     excerpt: "jwlarkin@ucsd.edu  
     Postdoctoral Researcher   
     Phone: x4-0041, Room 2225B"
-    url: "www.joe-larkin.com"
+    url: "https://www.joe-larkin.com"
     btn_label: "Website"
     btn_class: "btn--inverse"
   - image_path: /assets/images/lab_members/Maja.png
