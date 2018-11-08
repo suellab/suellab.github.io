@@ -25,6 +25,11 @@ feature_row:
     excerpt: "mbialeckafornal@ucsd.edu  
     Postdoctoral Researcher   
     Phone: x4-0041, Room 2225B"
+ - image_path: /assets/images/lab_members/Alan.png
+    title: "Alan Gillman, Ph.D"
+    excerpt: "gillman.a@gmail.com  
+    Postdoctoral Researcher  
+    Phone: x4-0041, Room 2224A  "
 ---
 {% include feature_row %}
 
