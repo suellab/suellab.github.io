@@ -13,15 +13,15 @@ Section of Molecular Biology, UCSD
 Phone: x4-0036  
 Pacific Hall, 2225A
 
-![Joe](/assets/images/lab_members/Joe.png){: height=80px}
+![Joe](/assets/images/lab_members/Joe.png){:height=80px}
 ### Joseph Larkin, PhD  
 jwlarkin@ucsd.edu    
 Postdoctoral Researcher     
 Phone: x4-0041, Room 2225B  
 [Website](https://www.joe-larkin.com){: .btn .btn--primary }  
 
-![Maja](/assets/images/lab_members/Maja.png){: height=80px}
-### Maja Bialecka-Fornal, Ph.D"
+![Maja](/assets/images/lab_members/Maja.png){:height=80px}
+### Maja Bialecka-Fornal, Ph.D
 mbialeckafornal@ucsd.edu  
 Postdoctoral Researcher   
 Phone: x4-0041, Room 2225B
