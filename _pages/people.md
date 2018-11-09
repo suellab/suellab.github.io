@@ -4,7 +4,7 @@ title: Süel Lab Members
 layout: splash
 tags: []
 
-feature_row:
+feature_row1:
   - image_path: /assets/images/lab_members/Gurol.png
     alt: "gurol"
     title: "Gürol M. Süel, Ph.D. "
@@ -26,6 +26,7 @@ feature_row:
     excerpt: "mbialeckafornal@ucsd.edu  
     Postdoctoral Researcher   
     Phone: x4-0041, Room 2225B"
+
 feature_row2:
  - image_path: /assets/images/lab_members/Alan.png
     title: "Alan Gillman, Ph.D"
@@ -42,6 +43,7 @@ feature_row2:
     excerpt: "chy062@ucsd.edu  
     Postdoctoral Researcher  
     Phone: x4-0041, Room 2225B"
+
 feature_row3:
  - image_path: /assets/images/lab_members/Kaito.png
     title: "Kaito Kikuchi"
@@ -61,6 +63,7 @@ feature_row3:
     excerpt: "shammack@ucsd.edu  
     Lab Manager  
     Phone: x4-0041, Room 2225B"
+
 feature_row4:
  - image_path: /assets/images/lab_members/Ashley.png
     title: "Eunchae Moon (Ashley)"
@@ -74,7 +77,8 @@ feature_row4:
     Phone: x4-0041, Room 2228"
 
 ---
-{% include feature_row %}
+
+{% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" %}
 
