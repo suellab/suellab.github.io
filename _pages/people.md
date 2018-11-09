@@ -3,6 +3,7 @@ permalink: /people/
 title: Süel Lab Members
 layout: splash
 tags: []
+
 feature_row:
   - image_path: /assets/images/lab_members/Gurol.png
     alt: "gurol"
