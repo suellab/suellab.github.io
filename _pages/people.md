@@ -85,9 +85,10 @@ Current: Assistant Professor at Tsinghua University
 Current: Assistant Professor at Northwestern University
 
 ### My Pham (Doug)
-Current: University of Colorado Medical School
+Current: Student at the Skaggs School of Pharmacy, University of Colorado
 
 ### Jacqueline Humphries, Ph.D
+Current: Scientist at Amyris, Inc.
 
 ### Munehiro Asally, Ph.D
 Current: Assistant Professor at the University of Warwick
