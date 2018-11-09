@@ -10,7 +10,8 @@ gsuel@ucsd.edu
 Professor  
 Section of Molecular Biology, UCSD  
 Phone: x4-0036  
-Pacific Hall, 2225A
+Pacific Hall, 2225A  
+[Biography](/gurol_bio/){: .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Joe.png){:height="200px" width="200px"}
 ### Joseph Larkin, PhD  
