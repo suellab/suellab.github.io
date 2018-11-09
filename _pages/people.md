@@ -118,7 +118,7 @@ Current: Pontificial Catholic University of Chile
 ### Anna Kuchina, Ph.D
 Current: Postdoctoral researcher at the Seelig Lab, University of Washington
 
-### Mellissa Anderson, Ph.D
+### Melissa Anderson, Ph.D
 
 ### Luise Kleine-Borgmann, Ph.D
 Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
