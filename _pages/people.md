@@ -1,32 +1,28 @@
 ---
 permalink: /people/
-title: Süel Lab Members
-layout: splash
-
-feature_row1:
-  - image_path: /assets/images/lab_members/Gurol.png
-    alt: "gurol"
-    title: "Gürol M. Süel, Ph.D. "
-    excerpt: "gsuel@ucsd.edu  
-    Professor  
-    Section of Molecular Biology, UCSD  
-    Pacific Hall, 2225A, Phone: x4-0036  "
-  - image_path: /assets/images/lab_members/Joe.png
-    alt: "joe"
-    title: "Joseph Larkin, PhD"
-    excerpt: "jwlarkin@ucsd.edu  
-    Postdoctoral Researcher   
-    Phone: x4-0041, Room 2225B"
-    url: "https://www.joe-larkin.com"
-    btn_label: "Website"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/lab_members/Maja.png
-    title: "Maja Bialecka-Fornal, Ph.D"
-    excerpt: "mbialeckafornal@ucsd.edu  
-    Postdoctoral Researcher   
-    Phone: x4-0041, Room 2225B"
-
+title: "Süel Lab Members"
+layout: single
 
 ---
 
-{% include feature_row id="feature_row1" type="center" %}
+![image-left](/assets/images/lab_members/Gurol.png){: .align-left}
+### Gürol M. Süel, Ph.D.
+gsuel@ucsd.edu  
+Professor  
+Section of Molecular Biology, UCSD  
+Phone: x4-0036  
+Pacific Hall, 2225A
+
+
+![image-left](/assets/images/lab_members/Joe.png){: .align-left}
+### Joseph Larkin, PhD  
+jwlarkin@ucsd.edu    
+Postdoctoral Researcher     
+Phone: x4-0041, Room 2225B  
+[Website](https://www.joe-larkin.com){: .btn .btn--primary }  
+
+![image-left](/assets/images/lab_members/Maja.png){: .align-left}
+### Maja Bialecka-Fornal, Ph.D"
+mbialeckafornal@ucsd.edu  
+Postdoctoral Researcher   
+Phone: x4-0041, Room 2225B
