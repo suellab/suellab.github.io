@@ -97,15 +97,16 @@ Current: Assistant Professor at the University of Warwick
 Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
 
 ### Eric Archer
-Current: Lab of Laura Hooper, UT Southwestern
+Current: Teacher at Garland ISD
 
 ### Andra Robinson
+Current: RBC Life Sciences
 
 ### Mark Kittisopikul
 Current: Postdoctoral researcher in the lab of Robert D. Goldman, Northwestern University
 
 ### Renske Van Raaphorst
-Current: MSc Molecular Biology and Biotechnology at the University of Groningen
+Current: Ph.D Student at the Veening lab, University of Lausanne
 
 ### Ada Hui
 
@@ -115,12 +116,12 @@ Current: MSc Molecular Biology and Biotechnology at the University of Groningen
 Current: Pontificial Catholic University of Chile
 
 ### Anna Kuchina, Ph.D
-Current: Postdoctoral researcher at the Seelig Lab
+Current: Postdoctoral researcher at the Seelig Lab, University of Washington
 
 ### Mellissa Anderson, Ph.D
-Current: Postdoctoral researcher at the Mayfield lab
 
 ### Luise Kleine-Borgmann, Ph.D
+Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 
 ### San Ly
 
