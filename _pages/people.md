@@ -74,3 +74,85 @@ Phone: x4-0041, Room 2228
 kwchou@ucsd.edu  
 Research Assistant  
 Phone: x4-0041, Room 2228
+
+
+## Alumni
+
+### Jintao Liu, Ph.D
+Current: Assistant Professor at Tsinghua University
+
+### Arthur B. Prindle, Ph.D
+Current: Assistant Professor at Northwestern University
+
+### My Pham (Doug)
+Current: University of Colorado Medical School
+
+### Jacqueline Humphries, Ph.D
+
+### Munehiro Asally, Ph.D
+Current: Assistant Professor at the University of Warwick
+
+### Tolga Çagatay, Ph.D
+Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
+
+### Eric Archer
+Current: Lab of Laura Hooper, UT Southwestern
+
+### Andra Robinson
+
+### Mark Kittisopikul
+Current: Postdoctoral researcher in the lab of Robert D. Goldman, Northwestern University
+
+### Renske Van Raaphorst
+Current: MSc Molecular Biology and Biotechnology at the University of Groningen
+
+### Ada Hui
+
+### Amy Xu
+
+### Carla Vidal
+Current: Pontificial Catholic University of Chile
+
+### Anna Kuchina, Ph.D
+Current: Postdoctoral researcher at the Seelig Lab
+
+### Mellissa Anderson, Ph.D
+Current: Postdoctoral researcher at the Mayfield lab
+
+### Luise Kleine-Borgmann, Ph.D
+
+### San Ly
+
+### Stella Gee
+
+### Anna Kwan
+
+### Fang Zhang
+
+### Qianxue (Amy) Lu
+
+### Alma Alvarado
+Current: Teacher at Dallas ISD
+
+### Oscar Alejandro Balbin
+Current: Bioinformatics Program Student at Department of Computational Medicine and Bioinformatics - University of Michigan Medical School
+
+## Visitor
+### María Lorena Espinar
+
+## Collaborators
+### Dr. Jordi Garcia-Ojalvo
+Universitat Pompeu Fabra (UPF), Barcelona Spain
+
+### Dr. Hod Lipson
+Cornell University, Ithaca, NY USA
+
+### Dr. Neal M. Alto
+UT Southwestern Medical Center at Dallas, TX USA
+
+### Dr. Oleg A. Igoshin
+Rice University, Houston, TX USA
+
+### Dr. KC Huang
+Stanford University, Stanford, CA  USA
+
