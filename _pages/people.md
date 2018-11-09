@@ -47,7 +47,7 @@ Phone: x4-0041, Room 2225B
 ### Kaito Kikuchi
 kaito@ucsd.edu  
 PhD Student  
-Phone: x4-0041, Room 2224A
+Phone: x4-0041, Room 2224A  
 [Website](https://www.kaito.co){: .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Colleen.png){:height="200px" width="200px"}
