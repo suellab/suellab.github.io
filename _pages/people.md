@@ -57,13 +57,13 @@ PhD Student
 Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Sam.png){:height="200px" width="200px"}
-###Samantha Hammack
+### Samantha Hammack
 shammack@ucsd.edu  
 Lab Manager  
 Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
-###Eunchae Moon (Ashley)
+### Eunchae Moon (Ashley)
 amoon0222@gmail.com  
 Research Assistant  
 Phone: x4-0041, Room 2228
