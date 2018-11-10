@@ -14,25 +14,24 @@ September 5, 2017
 By Robby Berman, Contributing Writer  
 January 19, 2017
 
-5 Coolest Things On Earth This Week: Snapchat for Pond Scum?
-By Tomas Kellner
+![](/assets/images/press/GEreports.jpg){: .align-left width="200px"} 
+[5 Coolest Things On Earth This Week: Snapchat for Pond Scum?](http://www.gereports.com/5-coolest-things-earth-week/)  
+By Tomas Kellner  
+January 13, 2017  
 
+![](/assets/images/press/sciencealert.jpg){: .align-left width="200px"}
+[We now know bacteria can communicate electrically, and we should be worried](http://www.sciencealert.com/bacteria-are-using-long-range-electric-signals-to-recruit-other-species)  
+By David Nield  
+January 13, 2017  
+
+![](/assets/images/press/cosmos.png){: .align-left width="200px"}
+[Bacterial blobs broadcast electrical messages to recruit other species](https://cosmosmagazine.com/biology/bacteria-recruit-other-species-with-electronic-messages)  
+By Amy Middleton  
 January 13, 2017
 
-We now know bacteria can communicate electrically, and we should be worried
-By David Nield
-
-January 13, 2017
-
-Bacterial blobs broadcast electrical messages to recruit other species
-By Amy Middleton
-
-January 13, 2017
-
-
-Bacteria Use Electrical Zaps to Recruit Others to Their Slime Colonies
-By Bryson Masse
-
+![](/assets/images/press/motherboard.png){: .align-left width="200px"}
+[Bacteria Use Electrical Zaps to Recruit Others to Their Slime Colonies](https://motherboard.vice.com/en_us/article/bacteria-use-electrical-zaps-to-recruit-other-microbes-to-slime-colonies)  
+By Bryson Masse  
 January 12, 2017
 
 
