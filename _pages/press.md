@@ -4,12 +4,13 @@ title: "Press"
 layout: single
 
 ---
-![](/assets/images/press/quanta.png){: .align-left width="150px"}}[Bacteria Use Brainlike Bursts of Electricity to Communicate](https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905)  
+![](/assets/images/press/quanta.png){: .align-left width="200px"}  
+[Bacteria Use Brainlike Bursts of Electricity to Communicate](https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905)  
 By Gabriel Popkin, Contributing Writer  
 September 5, 2017
        	
-
-Bacteria Apparently Send eVites to Each Other Through the Body  
+![](/assets/images/press/bigthink.png){: .align-left width="200px"}  
+[Bacteria Apparently Send eVites to Each Other Through the Body](http://bigthink.com/robby-berman/bacteria-apparently-send-evites-to-each-other-throughout-the-body)  
 By Robby Berman, Contributing Writer  
 January 19, 2017
 
