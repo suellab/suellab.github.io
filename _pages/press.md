@@ -40,184 +40,153 @@ By Bryson Masse
 January 12, 2017
 
 
-Bacteria communicate with other species to recruit them
-By Katherine Lindemann, Editor
-
-January 12, 2017
-
-Bacteria Send Electrical Pulses as Recruitment Ads
-By Ed Yong, The Atlantic Staff Writer
-
+![](/assets/images/press/researchgate.png){: width="200px"}    
+[Bacteria communicate with other species to recruit them](https://www.researchgate.net/blog/post/bacteria-communicate-with-other-species-to-recruit-them)  
+By Katherine Lindemann, Editor  
 January 12, 2017
 
 
-Bacteria Can Convey Electrical Messages the Same Way Neurons Do
-By Diana Kwon, Science Journalist
+![](/assets/images/press/theatlantic.jpg){: width="200px"}  
+[Bacteria Send Electrical Pulses as Recruitment Ads](https://www.theatlantic.com/science/archive/2017/01/bacteria-electrical-pulse/512825/)  
+By Ed Yong, The Atlantic Staff Writer  
+January 12, 2017
 
+
+![](/assets/images/press/scientificamerican.jpg){: width="200px"}  
+[Bacteria Can Convey Electrical Messages the Same Way Neurons Do](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)  
+By Diana Kwon, Science Journalist  
 March 1, 2016
 
 
-Bacterial Biofilms: A Charged Environment
+![](/assets/images/press/NIH.png){: width="200px"}  
+[Bacterial Biofilms: A Charged Environment](https://biobeat.nigms.nih.gov/2015/12/bacterial-biofilms-a-charged-environment/)  
 National Institute of General Medical Sciences
-
 By Kathryn Calkins, Biomedical Beat Reporter
-
 December 7, 2015
 
 
-
-Bacteria communicate like neurons, study finds
-By Bradley J. Fikes, UT San Diego Biotechnology Reporter
-
+![](/assets/images/press/UTsandiego.jpg){: width="200px"}  
+[Bacteria communicate like neurons, study finds](http://www.sandiegouniontribune.com/news/2015/oct/21/bacteria-communicate-suel/)  
+By Bradley J. Fikes, San Diego Union Tribune Biotechnology Reporter  
 October 21, 2015
 
 
-Biologists discover bacteria communicate like neurons in the brain
-Cell & Microbiology
-
+![](/assets/images/press/physorg.jpg){: width="200px"}  
+[Biologists discover bacteria communicate like neurons in the brain](http://phys.org/news/2015-10-biologists-bacteria-neurons-brain.html)  
+Cell & Microbiology  
 October 21, 2015
 
 
-Bacteria 'talk' to each other to coordinate their actions, research says
+![](/assets/images/press/theindependent.jpg){: width="200px"}  
+[Bacteria 'talk' to each other to coordinate their actions, research says](http://www.independent.co.uk/news/science/bacteria-talk-to-each-other-to-coordinate-their-actions-research-says-a6703411.html)  
 By Adam Lusher, Journalist
-
 October 21, 2015
 
 
-Bacteria 'TALK' to each other: Microbes communicate by exchanging electrical signals like brain cells
-By Rachel Reilly, Science and Technology Editor
-
+![](/assets/images/press/dailymail.jpg){: width="200px"}  
+[Bacteria 'TALK' to each other: Microbes communicate by exchanging electrical signals like brain cells](http://www.dailymail.co.uk/sciencetech/article-3282483/Bacteria-TALK-Microbes-communicate-exchanging-electrical-signals-like-brain-cells.html)  
+By Rachel Reilly, Science and Technology Editor  
 October 21, 2015
 
 
-Bacteria 'use electrical signals' to communicate with each other
+![](/assets/images/press/BTLogo.png){: width="200px"}  
+[Bacteria 'use electrical signals' to communicate with each other](http://home.bt.com/news/science-news/bacteria-use-electrical-signals-to-communicate-with-eachother-11364012177806)  
 Science News
-
 October 21, 2015
 
 
-Bacteria 'use electrical signals' to communicate with each other
-Yahoo News UK
-
+![](/assets/images/press/yahoonews.jpg){: width="200px"}   
+[Bacteria 'use electrical signals' to communicate with each other](https://uk.news.yahoo.com/bacteria-electrical-signals-communicate-eachother-170013072.html#ebsAazC)  
+Yahoo News UK  
 October 21, 2015
 
 
-
-Conflict and co-operation in bacterial communities
-By Anand Jagatia
-
+![](/assets/images/press/generalmicrobiology.png){: width="200px"}  
+[Conflict and co-operation in bacterial communities](http://microbepost.org/2015/08/05/conflict-and-co-operation-in-bacterial-communities/)  
+By Anand Jagatia  
 August 5, 2015
 
 
-Bacterial Hunger Games
-Produced by Alexa Lim, Associate Producer
-
-
-Elah Feder, Radio Intern
-
+![](/assets/images/press/scifri.jpg){: width="200px"}  
+[Bacterial Hunger Games](http://sciencefriday.com/segment/07/24/2015/bacterial-hunger-games.html)  
+Produced by Alexa Lim, Associate Producer  
+Elah Feder, Radio Intern  
 July 24, 2015
 
 
-Bacteria are many things, but selfish isn't one of them scientists say
-Washington Post Health and Science News 
-
-By Robert Gebelhoff
-
+![](/assets/images/press/washingtonpost.jpg){: width="200px"}  
+[Bacteria are many things, but selfish isn't one of them scientists say](http://www.washingtonpost.com/news/speaking-of-science/wp/2015/07/23/bacteria-are-many-things-but-selfish-isnt-one-of-them-scientists-say/)  
+Washington Post Health and Science News  
+By Robert Gebelhoff  
 July 23, 2015
 
 
-
-UC San Diego Researchers Uncover Key to Bacterial Communities' Survival
-KPBS Midday Edition
-
-By Maureen Cavanaugh, Patty Lane, Peggy Pico
-
+![](/assets/images/press/KPBS.jpg){: width="200px"}  
+[UC San Diego Researchers Uncover Key to Bacterial Communities' Survival](http://www.kpbs.org/news/2015/jul/22/uc-san-diego-researchers-uncover-key-survival-bact/)  
+KPBS Midday Edition  
+By Maureen Cavanaugh, Patty Lane, Peggy Pico  
 July 22, 2015
 
 
-
-Biofilm Harmony Arises from Metabolic Co-dependence, Not Bacterial Altruism
-GEN News Highlight
-
+![](/assets/images/press/GEN.jpg){: width="200px"}  
+[Biofilm Harmony Arises from Metabolic Co-dependence, Not Bacterial Altruism](http://www.genengnews.com/gen-news-highlights/biofilm-harmony-arises-from-metabolic-codependence-not-bacterial-altruism/81251537/)
+GEN News Highlight  
 July 22, 2015
 
 
-
-Resolving social conflict is key to survival of bacterial communities
-Picture of the Day
-
-July 23, 2015
-
-
-Resolving social conflict is key to survival of bacterial communities
-
-July 22, 2015
-
-Resolving social conflict is key to survival of bacterial communities
+![](/assets/images/press/physorg.jpg){: width="200px"}  
+[Resolving social conflict is key to survival of bacterial communities](http://phys.org/news/2015-07-social-conflict-key-survival-bacterial.html)  
+Cell & Microbiology News  
 July 22, 2015
 
 
-Resolving social conflict is key to survival of bacterial communities
-Cell & Microbiology News
-
-July 22, 2015
-
-
-
-Gurol Suel, Biological Sciences Section in Molecular Biology
-Official UCSD Youtube Channel
-
+![](/assets/images/press/ucsd.jpg){: width="200px"}  
+[Gurol Suel, Biological Sciences Section in Molecular Biology](https://www.youtube.com/watch?v=H_O9iWfbsxM)  
+Official UCSD Youtube Channel  
 July 1, 2015
 
 
-Cells in Living Things Fight Noise with Noise
-By Emily Singer and Quanta Magazine
-
+![](/assets/images/press/scientificamerican.jpg){: width="200px"}  
+[Cells in Living Things Fight Noise with Noise](http://www.scientificamerican.com/article/cells-in-living-things-fight-noise-with-noise/)  
+By Emily Singer and Quanta Magazine  
 May 27, 2014
 
-The Jelly Roll of Life
-Schaechter ASM Blog
 
-By Jacqueline Humphries
-
-May 12, 2014
-
-New Discoveries and Significant Wrinkles in a Dynamic Field
-Report on the ASM 6th Conference on Biofilms
-
-Manuscript by Susanne Haussler and Clay Fuqua
-
+![](/assets/images/press/asm.jpg){: width="200px"}  
+[New Discoveries and Significant Wrinkles in a Dynamic Field](http://jb.asm.org/content/195/13/2947.full)  
+Report on the ASM 6th Conference on Biofilms  
+Manuscript by Susanne Haussler and Clay Fuqua  
 April 26, 2013
 
 
-Patterns of cell death aid in the formation of beneficial wrinkles during the development of bacterial biofilms
-
-Editor's Choice in Microbiology
-
-By Kerry Grens, Associate Editor
-
+![](/assets/images/press/thescientist.jpg){: width="200px"}  
+[Bacterial Sacrifice: Patterns of cell death aid in the formation of beneficial wrinkles during the development of bacterial biofilms](https://www.the-scientist.com/the-literature/bacterial-sacrifice-39999)  
+Editor's Choice in Microbiology  
+By Kerry Grens, Associate Editor  
 January 1, 2013
 
-To Know, but Not Understand: David Weinberger on Science and Big Data
-By David Weinberger, Senior researcher at Berkman Center, Harvard University
 
+![](/assets/images/press/theatlantic.jpg){: width="200px"}  
+[To Know, but Not Understand: David Weinberger on Science and Big Data](http://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/)  
+By David Weinberger, Senior researcher at Berkman Center, Harvard University  
 January 3, 2012
 
 
-Will Robots Steal Your Jobs?
-By Farhad Manjoo, Technology columnist, New York Times
-
+![](/assets/images/press/slate.jpg){: width="200px"}  
+[Will Robots Steal Your Jobs?](http://www.slate.com/articles/technology/robot_invasion/2011/09/robot_invasion_can_computers_replace_scientists_.html)  
+By Farhad Manjoo, Technology columnist, New York Times  
 September 30, 2011
 
-Limits
-Podcast
 
-Season 7 Episode 3
-
+![](/assets/images/press/radiolab.jpg){: width="200px"}  
+[Limits](http://www.radiolab.org/people/gurol-suel/)  
+Podcast  
+Season 7 Episode 3  
 April 5, 2010
 
 
-Discussion on designing and building gene regulatory circuits in Bacillus subtilis
-Cell Press with Dr. Fabiola Rivas
-
+![](/assets/images/press/podbay.jpg){: width="200px"}  
+[Discussion on designing and building gene regulatory circuits in Bacillus subtilis](http://podbay.fm/show/276900457/e/1256835600)  
+Cell Press with Dr. Fabiola Rivas  
 October 29, 2009
+
