@@ -5,7 +5,7 @@ layout: single
 
 ---
 
-![]({{https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905}}/assets/images/press/quanta.png){: .align-left} [Bacteria Use Brainlike Bursts of Electricity to Communicate](https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905)
+![](/assets/images/press/quanta.png){: .align-left width="150px"}} [Bacteria Use Brainlike Bursts of Electricity to Communicate](https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905)
 By Gabriel Popkin, Contributing Writer  
 September 5, 2017
        	
