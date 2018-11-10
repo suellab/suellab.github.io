@@ -4,37 +4,37 @@ title: "Press"
 layout: single
 
 ---
-![](/assets/images/press/quanta.png){: .align-left width="200px"} \\ 
+![](/assets/images/press/quanta.png){: width="200px"}  
 [Bacteria Use Brainlike Bursts of Electricity to Communicate](https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905)  
 By Gabriel Popkin, Contributing Writer  
 September 5, 2017
        	
 
-![](/assets/images/press/bigthink.png){: .align-left width="200px"}  
+![](/assets/images/press/bigthink.png){: width="200px"}    
 [Bacteria Apparently Send eVites to Each Other Through the Body](http://bigthink.com/robby-berman/bacteria-apparently-send-evites-to-each-other-throughout-the-body)  
 By Robby Berman, Contributing Writer  
 January 19, 2017
 
 
-![](/assets/images/press/GEreports.jpg){: .align-left width="200px"}  
+![](/assets/images/press/GEreports.jpg){: width="200px"}    
 [5 Coolest Things On Earth This Week: Snapchat for Pond Scum?](http://www.gereports.com/5-coolest-things-earth-week/)  
 By Tomas Kellner  
 January 13, 2017  
 
 
-![](/assets/images/press/sciencealert.jpg){: .align-left width="200px"}  
+![](/assets/images/press/sciencealert.jpg){: width="200px"}   
 [We now know bacteria can communicate electrically, and we should be worried](http://www.sciencealert.com/bacteria-are-using-long-range-electric-signals-to-recruit-other-species)  
 By David Nield  
 January 13, 2017  
 
 
-![](/assets/images/press/cosmos.png){: .align-left width="200px"}  
+![](/assets/images/press/cosmos.png){: width="200px"}    
 [Bacterial blobs broadcast electrical messages to recruit other species](https://cosmosmagazine.com/biology/bacteria-recruit-other-species-with-electronic-messages)  
 By Amy Middleton  
 January 13, 2017
 
 
-![](/assets/images/press/motherboard.png){: .align-left width="200px"}  
+![](/assets/images/press/motherboard.png){: width="200px"}    
 [Bacteria Use Electrical Zaps to Recruit Others to Their Slime Colonies](https://motherboard.vice.com/en_us/article/bacteria-use-electrical-zaps-to-recruit-other-microbes-to-slime-colonies)  
 By Bryson Masse  
 January 12, 2017
