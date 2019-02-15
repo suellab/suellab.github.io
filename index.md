@@ -5,7 +5,7 @@ tags: []
 
 ---
 
-![](/assets/images/art/biofilm_dynamics.jpg){:width="200px"}
+![](/assets/images/art/biofilm_dynamics.jpg){:width="800px"}
 
 <p float="left">
   <img src="/assets/images/orgs/ucsd_biosciences.png" width="200" />
