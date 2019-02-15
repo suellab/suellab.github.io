@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "Home"
+     url: / 
    - title: "Research"
      url: /research/
    - title: "Publications"
@@ -11,6 +13,4 @@ main:
    - title: "Courses"
      url: /courses/
    - title: "Contact"
-     url: /contact/
-   - title: "Funding"
-     url: /funding/     
+     url: /contact/   
