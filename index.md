@@ -2,22 +2,14 @@
 layout: splash
 
 tags: []
-gallery:
-  - url: https://biology.ucsd.edu/
-    image_path: /assets/images/orgs/Link1.jpg
-    alt: "UCSD Biological Sciences"
-  - url: https://qbio.ucsd.edu/index.php
-    image_path: /assets/images/orgs/Link2.jpg
-    alt: "Quantitative Biology PhD Specialization"
-  - url: http://biocircuits.ucsd.edu/
-    image_path: /assets/images/orgs/Link3.jpg
-    alt: "Biocircuits Institute"
-  - url: http://sdcsb.ucsd.edu/
-    image_path: /assets/images/orgs/Link4.jpg
-    alt: "San Diego Center for Systems Biology"    
+
 ---
 
 ![Unsplash image 1](/assets/images/art/biofilm_dynamics.jpg)
 
-{% include gallery %}
-
+<p align="center">
+  <img src="/assets/images/orgs/ucsd_biosciences.png" width="100" />
+  <img src="/assets/images/orgs/qbio.png" width="100" />
+  <img src="/assets/images/orgs/biocircuits_institute.png" width="100" />
+  <img src="/assets/images/orgs/sdcsb.png" width="100" />
+</p>p>
