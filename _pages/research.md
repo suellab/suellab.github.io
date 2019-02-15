@@ -6,6 +6,9 @@ tags: []
 
 ---
 
+![Unsplash image 2](/assets/images/art/swimming_bacteria.jpg)
+
+
 ## Overall interests:
 
 We are fascinated by how molecular and cellular interactions can give rise to emergent dynamics in microbial systems. In particular, our goal is to understand how dynamics at the cellular and population level improve bacterial fitness. We typically develop and utilize quantitative biology approaches to inform and constrain mathematical modeling. We use modeling to integrate across molecular, single cell and population level scales to uncover fundamental principles of bacterial physiology, and more recently bacterial electrophysiology.
