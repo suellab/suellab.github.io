@@ -4,7 +4,7 @@ layout: splash
 tags: []
 
 ---
-changed css import to remove .css
+changed css import to scss
 
 <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
     <figure>
