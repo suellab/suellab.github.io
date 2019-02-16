@@ -6,5 +6,5 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "assets/css/simple-slideshow-styles.css";
-@import "assets/css/styles.css";
+@import "simple-slideshow-styles.css";
+@import "styles.css";
