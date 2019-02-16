@@ -8,10 +8,8 @@ classes: wide
 ![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
 ### Gürol M. Süel, Ph.D.
 gsuel@ucsd.edu  
-Professor  
-Section of Molecular Biology, UCSD  
-Phone: x4-0036  
-Pacific Hall, 2225A  
+Professor, Section of Molecular Biology  
+Phone: x4-0036, Room 2225A  
 [Biography](/gurol_bio/){: .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Joe.png){:height="200px" width="200px"}
