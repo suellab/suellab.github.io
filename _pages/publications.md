@@ -8,8 +8,8 @@ tags: []
 
 ## Journal Articles
 
-[Magnesium flux modulates ribosomes to increase bacterial survival]()
-Lee D.D., Galera-Laporta L., Bialecka-Fornal M., Moon E.C., Shen Z., Briggs S.P., Garcia-Ojalvo J., and Süel G.M.
+[Magnesium flux modulates ribosomes to increase bacterial survival]()  
+Lee D.D., Galera-Laporta L., Bialecka-Fornal M., Moon E.C., Shen Z., Briggs S.P., Garcia-Ojalvo J., and Süel G.M.  
 Cell, 2019; In Press.
 
 [Bistable emergence of oscillations in growing Bacillus subtilis biofilms](http://www.pnas.org/content/early/2018/08/17/1805004115)  
