@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 title: "Süel Lab Members"
-layout: single
+layout: splash
 
 ---
 ![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
@@ -79,10 +79,10 @@ Phone: x4-0041, Room 2224A
 ## Alumni
 
 ### Jintao Liu, Ph.D
-Current: Assistant Professor at Tsinghua University
+Current: [Assistant Professor at Tsinghua University](http://www.med.tsinghua.edu.cn/Person?method=102&perId=270)
 
 ### Arthur B. Prindle, Ph.D
-Current: Assistant Professor at Northwestern University
+Current: [Assistant Professor at Northwestern University](https://sites.northwestern.edu/prindle/)
 
 ### My Pham (Doug)
 Current: Student at the Skaggs School of Pharmacy, University of Colorado
@@ -91,7 +91,7 @@ Current: Student at the Skaggs School of Pharmacy, University of Colorado
 Current: Scientist at Amyris, Inc.
 
 ### Munehiro Asally, Ph.D
-Current: Assistant Professor at the University of Warwick
+Current: [Assistant Professor at the University of Warwick](https://homepages.warwick.ac.uk/staff/M.Asally/index.html)
 
 ### Tolga Çagatay, Ph.D
 Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
@@ -108,10 +108,6 @@ Current: Postdoctoral researcher in the lab of Robert D. Goldman, Northwestern U
 ### Renske Van Raaphorst
 Current: Ph.D Student at the Veening lab, University of Lausanne
 
-### Ada Hui
-
-### Amy Xu
-
 ### Carla Vidal
 Current: Pontificial Catholic University of Chile
 
@@ -123,6 +119,16 @@ Current: Postdoctoral researcher at the Seelig Lab, University of Washington
 ### Luise Kleine-Borgmann, Ph.D
 Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 
+### Alma Alvarado
+Current: Teacher at Dallas ISD
+
+### Oscar Alejandro Balbin
+Current: Bioinformatics Program Student at Department of Computational Medicine and Bioinformatics - University of Michigan Medical School
+
+### Ada Hui
+
+### Amy Xu
+
 ### San Ly
 
 ### Stella Gee
@@ -132,12 +138,6 @@ Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 ### Fang Zhang
 
 ### Qianxue (Amy) Lu
-
-### Alma Alvarado
-Current: Teacher at Dallas ISD
-
-### Oscar Alejandro Balbin
-Current: Bioinformatics Program Student at Department of Computational Medicine and Bioinformatics - University of Michigan Medical School
 
 ## Visitor
 ### María Lorena Espinar
