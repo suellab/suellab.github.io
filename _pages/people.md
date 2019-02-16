@@ -1,8 +1,10 @@
 ---
 permalink: /people/
 layout: single
+classes: wide
 
 ---
+
 ![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
 ### Gürol M. Süel, Ph.D.
 gsuel@ucsd.edu  
