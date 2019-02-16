@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Süel Lab"
+title                    : "Süel Lab. Edited by Kaito Kikuchi."
 title_separator          : "-"
 name                     : #"Your Name"
 description              : #"An amazing website."
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : #"Edited by Kaito Kikuchi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an amazing person."
+  bio              : 
   location         : #"Pacific Hall Room 2225B 9500 Gilman Dr. La Jolla, CA 92093-0347 (858)534-0041"
   email            :
   links:
