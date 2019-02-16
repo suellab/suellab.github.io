@@ -4,6 +4,7 @@ layout: splash
 tags: []
 
 ---
+changed css import
 
 <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
     <figure>
