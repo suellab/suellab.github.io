@@ -24,8 +24,8 @@ tags: []
   <a href="http://biocircuits.ucsd.edu/"> <img src="/assets/images/orgs/biocircuits_institute.png" width="200" />
   <a href="http://sdcsb.ucsd.edu/"> <img src="/assets/images/orgs/sdcsb.png" width="200" />
 
-<script src="js/hammer.min.js"></script><!-- for swipe support on touch interfaces -->
-<script src="js/better-simple-slideshow.min.js"></script>
+<script src="/assets/js/hammer.min.js"></script><!-- for swipe support on touch interfaces -->
+<script src="/assets/js/better-simple-slideshow.min.js"></script>
 <script>
 var opts = {
     auto : {
