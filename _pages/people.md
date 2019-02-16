@@ -1,7 +1,6 @@
 ---
 permalink: /people/
-title: "Süel Lab Members"
-layout: splash
+layout: single
 
 ---
 ![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
