@@ -10,5 +10,9 @@ main:
      url: /press/
    - title: "Courses"
      url: /courses/
+   - title: "Movies"
+     url: https://www.youtube.com/channel/UCPDqJyERFcQ2hMuWYMHLNBg
+   - title: "Funding"
+     url: /funding/
    - title: "Contact"
      url: /contact/   
