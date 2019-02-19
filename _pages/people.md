@@ -93,21 +93,26 @@ Current: Director of Research and Development, T2 Energy
 ### Luise Kleine-Borgmann, Ph.D
 Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 
-## Students
+### Tolga Çagatay, Ph.D
+Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
+
+## Graduate Students
 ### Jacqueline Humphries, Ph.D
 Current: Scientist at Amyris, Inc.
 
-### Eric Archer
-Current: Teacher at Garland ISD
-
-### Andra Robinson
-Current: RBC Life Sciences
+### Fang Zhang, Ph.D
 
 ### Mark Kittisopikul, Ph.D
 Current: Postdoctoral researcher in the lab of Robert D. Goldman, Northwestern University
 
 ### Anna Kuchina, Ph.D
 Current: Postdoctoral researcher at the Seelig Lab, University of Washington
+
+### Eric Archer
+Current: Teacher at Garland ISD
+
+### Andra Robinson
+Current: RBC Life Sciences
 
 ## Staff
 ### My Pham (Doug)
@@ -116,15 +121,13 @@ Current: Student at the Skaggs School of Pharmacy, University of Colorado
 ### San Ly
 Current: Student at the Daniel K. Inouye College of Pharmacy, University of Hawaiʻi at Hilo
 
-### Tolga Çagatay, Ph.D
-Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
-
 ### Alma Alvarado
 Current: Teacher at Dallas ISD
 
 ### Oscar Alejandro Balbin
-Current: Bioinformatics Program Student at Department of Computational Medicine and Bioinformatics - University of Michigan Medical School
+Current: Investigator II, Bioinformatics, Novartis Institutes for Biomedical Research
 
+## Undergraduate Students
 ### Ada Hui
 
 ### Amy Xu
@@ -132,8 +135,6 @@ Current: Bioinformatics Program Student at Department of Computational Medicine 
 ### Stella Gee
 
 ### Anna Kwan
-
-### Fang Zhang
 
 ### Qianxue (Amy) Lu
 
