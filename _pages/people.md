@@ -77,7 +77,7 @@ Phone: x4-0041, Room 2224A
 
 ## Alumni
 
-## Postdocs
+## Postdoctoral Researchers
 ### Jintao Liu, Ph.D
 Current: [Assistant Professor at Tsinghua University](http://www.med.tsinghua.edu.cn/Person?method=102&perId=270)
 
