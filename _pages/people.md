@@ -77,23 +77,25 @@ Phone: x4-0041, Room 2224A
 
 ## Alumni
 
+## Postdocs
 ### Jintao Liu, Ph.D
 Current: [Assistant Professor at Tsinghua University](http://www.med.tsinghua.edu.cn/Person?method=102&perId=270)
 
 ### Arthur B. Prindle, Ph.D
 Current: [Assistant Professor at Northwestern University](https://sites.northwestern.edu/prindle/)
 
-### My Pham (Doug)
-Current: Student at the Skaggs School of Pharmacy, University of Colorado
-
-### Jacqueline Humphries, Ph.D
-Current: Scientist at Amyris, Inc.
-
 ### Munehiro Asally, Ph.D
 Current: [Assistant Professor at the University of Warwick](https://homepages.warwick.ac.uk/staff/M.Asally/index.html)
 
-### Tolga Çagatay, Ph.D
-Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
+### Melissa Anderson, Ph.D
+Current: Director of Research and Development, T2 Energy
+
+### Luise Kleine-Borgmann, Ph.D
+Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
+
+## Students
+### Jacqueline Humphries, Ph.D
+Current: Scientist at Amyris, Inc.
 
 ### Eric Archer
 Current: Teacher at Garland ISD
@@ -101,22 +103,21 @@ Current: Teacher at Garland ISD
 ### Andra Robinson
 Current: RBC Life Sciences
 
-### Mark Kittisopikul
+### Mark Kittisopikul, Ph.D
 Current: Postdoctoral researcher in the lab of Robert D. Goldman, Northwestern University
-
-### Renske Van Raaphorst
-Current: Ph.D Student at the Veening lab, University of Lausanne
-
-### Carla Vidal
-Current: Pontificial Catholic University of Chile
 
 ### Anna Kuchina, Ph.D
 Current: Postdoctoral researcher at the Seelig Lab, University of Washington
 
-### Melissa Anderson, Ph.D
+## Staff
+### My Pham (Doug)
+Current: Student at the Skaggs School of Pharmacy, University of Colorado
 
-### Luise Kleine-Borgmann, Ph.D
-Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
+### San Ly
+Current: Student at the Daniel K. Inouye College of Pharmacy, University of Hawaiʻi at Hilo
+
+### Tolga Çagatay, Ph.D
+Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
 
 ### Alma Alvarado
 Current: Teacher at Dallas ISD
@@ -128,8 +129,6 @@ Current: Bioinformatics Program Student at Department of Computational Medicine 
 
 ### Amy Xu
 
-### San Ly
-
 ### Stella Gee
 
 ### Anna Kwan
@@ -138,8 +137,15 @@ Current: Bioinformatics Program Student at Department of Computational Medicine 
 
 ### Qianxue (Amy) Lu
 
-## Visitor
-### María Lorena Espinar
+## Visitors
+### Lorena Espinar
+Current: Lab technician at the Fillon lab, Centre for Genomic Regulation, Barcelona
+
+### Renske Van Raaphorst
+Current: Ph.D Student at the Veening lab, University of Lausanne
+
+### Carla Vidal
+Current: Pontificial Catholic University of Chile
 
 ## Collaborators
 ### Dr. Jordi Garcia-Ojalvo
