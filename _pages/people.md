@@ -94,16 +94,17 @@ Current: Director of Research and Development, T2 Energy
 Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 
 ### Tolga Çagatay, Ph.D
-Current: Instructor in the lab of Yuh Min Chook, UT Southwestern
+Current: Instructor at the Chook Lab, UT Southwestern
 
 ## Graduate Students
 ### Jacqueline Humphries, Ph.D
 Current: Scientist at Amyris, Inc.
 
 ### Fang Zhang, Ph.D
+Current: Postdoctoral researcher at the Hulleman Lab, UT Southwestern
 
 ### Mark Kittisopikul, Ph.D
-Current: Postdoctoral researcher in the lab of Robert D. Goldman, Northwestern University
+Current: Postdoctoral researcher at the Goldman Lab, Northwestern University
 
 ### Anna Kuchina, Ph.D
 Current: Postdoctoral researcher at the Seelig Lab, University of Washington
