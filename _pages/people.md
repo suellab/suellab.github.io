@@ -48,7 +48,7 @@ Phone: x4-0041, Room 2225B
 kaito@ucsd.edu  
 PhD Student  
 Phone: x4-0041, Room 2224A  
-[Website](https://www.kaito.co){: .btn .btn--primary }  
+[Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }{:}  
 
 ![](/assets/images/lab_members/Colleen.png){:height="200px" width="200px"}
 ### Colleen Weatherwax
