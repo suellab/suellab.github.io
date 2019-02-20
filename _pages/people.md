@@ -10,14 +10,14 @@ classes: wide
 gsuel@ucsd.edu  
 Professor, Section of Molecular Biology  
 Phone: x4-0036, Room 2225A  
-[Biography](/gurol_bio/){: .btn .btn--primary }  
+[Biography](/gurol_bio/){:target="_blank" rel="noopener" .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Joe.png){:height="200px" width="200px"}
 ### Joseph Larkin, PhD  
 jwlarkin@ucsd.edu    
 Postdoctoral Researcher     
 Phone: x4-0041, Room 2225B  
-[Website](https://www.joe-larkin.com){: .btn .btn--primary }  
+[Website](https://www.joe-larkin.com){:target="_blank" rel="noopener" .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Maja.png){:height="200px" width="200px"}
 ### Maja Bialecka-Fornal, Ph.D
@@ -48,7 +48,7 @@ Phone: x4-0041, Room 2225B
 kaito@ucsd.edu  
 PhD Student  
 Phone: x4-0041, Room 2224A  
-[Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }{:}  
+[Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }
 
 ![](/assets/images/lab_members/Colleen.png){:height="200px" width="200px"}
 ### Colleen Weatherwax
