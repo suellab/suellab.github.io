@@ -16,11 +16,11 @@ gallery:
   - url: /assets/images/lab_pics/cozy_lab.jpg
     image_path: /assets/images/lab_pics/cozy_lab.jpg
     title: "Working during construction"
-  - url: /assets/images/lab_pics/lab_eclipse.jpg
-    image_path: /assets/images/lab_pics/lab_eclipse.jpg
+  - url: /assets/images/lab_pics/lab_eclipse.JPG
+    image_path: /assets/images/lab_pics/lab_eclipse.JPG
     title: "Watching the solar eclipse"
-  - url: /assets/images/lab_pics/old_lab.jpg
-    image_path: /assets/images/lab_pics/old_lab.jpg
+  - url: /assets/images/lab_pics/old_lab.jpeg
+    image_path: /assets/images/lab_pics/old_lab.jpeg
     title: "Bella vista cafe"
 ---
 
