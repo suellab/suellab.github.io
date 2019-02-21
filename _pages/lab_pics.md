@@ -24,5 +24,5 @@ gallery:
     title: "Bella vista cafe"
 ---
 
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" %}
 
