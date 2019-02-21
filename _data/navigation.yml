@@ -12,6 +12,8 @@ main:
      url: /courses/
    - title: "Movies"
      url: https://www.youtube.com/channel/UCPDqJyERFcQ2hMuWYMHLNBg
+   - title: "Lab Pictures"
+     url: /lab_pics/
    - title: "Funding"
      url: /funding/
    - title: "Contact"
