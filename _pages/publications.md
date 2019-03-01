@@ -28,7 +28,8 @@ Lee D.D., Prindle A., Liu J., and Süel G.M.
 Cell, 2017; Volume 170, Issue 1, 214-214  
  	 
 [Coupling between distant biofilms and emergence of nutrient time-sharing](http://science.sciencemag.org/content/early/2017/04/05/science.aah4204){:target="_blank" rel="noopener"}  
-Liu J., Martinez-Corral R., Prindle A., Lee D.D., Larkin J., Gabalda-Sagarra M., Garcia-Ojalvo J. and Süel G.M.  
+Liu J., Martinez-Corral R.\*, Prindle A.\*, Lee D.D., Larkin J., Gabalda-Sagarra M., Garcia-Ojalvo J. and Süel G.M.  
+(\*equal contributors)  
 Science, 2017; Volume 356, Issue 6338, 638-642  
  	 
 [Species-independent attraction to biofilms through electrical signaling](http://www.cell.com/cell/fulltext/S0092-8674%2816%2931728-7){:target="_blank" rel="noopener"}  
@@ -48,7 +49,8 @@ Prindle A., Liu J., Asally M., Ly S., Garcia-Ojalvo J., and Süel G.M.
 Nature. 2015; 527(7576)
  	 
 [Metabolic co-dependence gives rise to collective oscillations within biofilms](http://www.nature.com/nature/journal/v523/n7562/full/nature14660.html){:target="_blank" rel="noopener"}  
-Liu J., Prindle A., Humphries J., Gabalda-Sagarra M., Asally M., Lee D.D., Ly S., Garcia-Ojalvo J., and Süel G.M.  
+Liu J., Prindle A.\*, Humphries J.\*, Gabalda-Sagarra M.\*, Asally M.\*, Lee D.D., Ly S., Garcia-Ojalvo J., and Süel G.M.  
+(\*equal contributors)    
 Nature. 2015; 523(7562)
  	 
 [A synthetic quorum sensing system reveals a potential private benefit for public good production in a biofilm](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132948){:target="_blank" rel="noopener"}  
