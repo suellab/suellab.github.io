@@ -8,7 +8,7 @@ tags: []
 
 ## Journal Articles
 
-[Magnesium flux modulates ribosomes to increase bacterial survival]()  
+[Magnesium flux modulates ribosomes to increase bacterial survival](https://bit.ly/2T3MXxc){:target="_blank" rel="noopener"}  
 Lee D.D.\*, Galera-Laporta L.\*, Bialecka-Fornal M.\*, Moon E.C., Shen Z., Briggs S.P., Garcia-Ojalvo J., and Süel G.M.  
 (\*equal contributors)  
 Cell, 2019; In Press.
