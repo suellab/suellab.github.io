@@ -8,6 +8,9 @@ tags: []
 
 ## Journal Articles
 
+[Metabolic basis of brain-like electrical signalling in bacterial communities](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0382){:target="_blank" rel="noopener"}  
+Phil. Trans. R. Soc, 2019; doi: https://doi.org/10.1098/rstb.2018.0382
+
 [Magnesium flux modulates ribosomes to increase bacterial survival](https://bit.ly/2T3MXxc){:target="_blank" rel="noopener"}  
 Lee D.D.\*, Galera-Laporta L.\*, Bialecka-Fornal M.\*, Moon E.C., Shen Z., Briggs S.P., Garcia-Ojalvo J., and Süel G.M.  
 (\*equal contributors)  
