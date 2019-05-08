@@ -10,12 +10,12 @@ tags: []
 
 [Metabolic basis of brain-like electrical signalling in bacterial communities](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0382){:target="_blank" rel="noopener"}  
 Martinez-Corral R., Liu J., Prindle A., Süel G.M., and Garcia-Ojalvo J.  
-Phil. Trans. R. Soc, 2019; doi: https://doi.org/10.1098/rstb.2018.0382
+Phil. Trans. R. Soc, 2019; Volume 374, Issue 1774.  
 
 [Magnesium flux modulates ribosomes to increase bacterial survival](https://bit.ly/2T3MXxc){:target="_blank" rel="noopener"}  
 Lee D.D.\*, Galera-Laporta L.\*, Bialecka-Fornal M.\*, Moon E.C., Shen Z., Briggs S.P., Garcia-Ojalvo J., and Süel G.M.  
 (\*equal contributors)  
-Cell, 2019; doi: https://doi.org/10.1016/j.cell.2019.01.042
+Cell, 2019; Volume 177, Issue 2, 352-360.  
 
 [Bistable emergence of oscillations in growing Bacillus subtilis biofilms](http://www.pnas.org/content/early/2018/08/17/1805004115){:target="_blank" rel="noopener"}  
 Martinez-Corral R., Liu, J., Süel G.M., and Garcia-Ojalvo J.  
