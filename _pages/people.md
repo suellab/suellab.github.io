@@ -46,7 +46,7 @@ Phone: x4-0041, Room 2225B
 ![](/assets/images/lab_members/Kaito.png){:height="200px" width="200px"}
 ### Kaito Kikuchi
 kaito@ucsd.edu  
-PhD Student  
+PhD Candidate  
 Phone: x4-0041, Room 2224A  
 [Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }
 
@@ -56,23 +56,17 @@ cweather@ucsd.edu
 PhD Student  
 Phone: x4-0041, Room 2224A
 
-![](/assets/images/lab_members/Sam.png){:height="200px" width="200px"}
-### Samantha Hammack
-shammack@ucsd.edu  
+![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
+### Kwang-Tao Chou (Todd)
+kwchou@ucsd.edu  
 Lab Manager  
-Phone: x4-0041, Room 2225B
+Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
 ### Eunchae Moon (Ashley)
 amoon0222@gmail.com  
 Research Assistant  
 Phone: x4-0041, Room 2225B
-
-![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
-### Kwang-Tao Chou (Todd)
-kwchou@ucsd.edu  
-Research Assistant  
-Phone: x4-0041, Room 2224A
 
 
 ## Alumni
@@ -116,6 +110,9 @@ Current: Teacher at Garland ISD
 Current: RBC Life Sciences
 
 ## Staff
+### Samantha Hammack
+Current: DVM student at the University of Illinois College of Veterinary Medicine
+
 ### My Pham (Doug)
 Current: Student at the Skaggs School of Pharmacy, University of Colorado
 
