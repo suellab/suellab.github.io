@@ -53,7 +53,7 @@ Phone: x4-0041, Room 2224A
 ![](/assets/images/lab_members/Colleen.png){:height="200px" width="200px"}
 ### Colleen Weatherwax
 cweather@ucsd.edu  
-PhD Student (Bioinformatics and Systems Biology)
+PhD Student (Bioinformatics and Systems Biology)  
 Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
