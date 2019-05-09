@@ -6,17 +6,17 @@ classes: wide
 ---
 
 ![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
-### Gürol M. Süel, Ph.D.
+### Gürol M. Süel, Ph.D
 gsuel@ucsd.edu  
 Professor, Section of Molecular Biology  
 Phone: x4-0036, Room 2225A  
 [Biography](/gurol_bio/){:target="_blank" rel="noopener" .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Joe.png){:height="200px" width="200px"}
-### Joseph Larkin, PhD  
+### Joseph Larkin, Ph.D  
 jwlarkin@ucsd.edu    
 Postdoctoral Researcher     
-Phone: x4-0041, Room 2225B  
+Phone: x4-0041, Room 2224A   
 [Website](https://www.joe-larkin.com){:target="_blank" rel="noopener" .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Maja.png){:height="200px" width="200px"}
@@ -35,7 +35,7 @@ Phone: x4-0041, Room 2224A
 ### Dong-yeon Lee (Daisy), Ph.D
 dol001@ucsd.edu  
 Postdoctoral Researcher  
-Phone: x4-0041, Room 2224A
+Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Alex.png){:height="200px" width="200px"}
 ### Chih-Yu Yang (Alex), Ph.D
@@ -60,7 +60,7 @@ Phone: x4-0041, Room 2224A
 ### Kwang-Tao Chou (Todd)
 kwchou@ucsd.edu  
 Lab Manager  
-Phone: x4-0041, Room 2224A
+Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
 ### Eunchae Moon (Ashley)
@@ -126,6 +126,8 @@ Current: Teacher at Dallas ISD
 Current: Investigator II, Bioinformatics, Novartis Institutes for Biomedical Research
 
 ## Undergraduate Students
+### Tyler Chung
+
 ### Ada Hui
 
 ### Amy Xu
