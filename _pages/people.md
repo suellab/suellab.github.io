@@ -46,14 +46,14 @@ Phone: x4-0041, Room 2225B
 ![](/assets/images/lab_members/Kaito.png){:height="200px" width="200px"}
 ### Kaito Kikuchi
 kaito@ucsd.edu  
-PhD Candidate  
+PhD Student (Biological Sciences)    
 Phone: x4-0041, Room 2224A  
 [Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }
 
 ![](/assets/images/lab_members/Colleen.png){:height="200px" width="200px"}
 ### Colleen Weatherwax
 cweather@ucsd.edu  
-PhD Student  
+PhD Student (Bioinformatics and Systems Biology)
 Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
