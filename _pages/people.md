@@ -126,7 +126,7 @@ Current: Teacher at Dallas ISD
 Current: Investigator II, Bioinformatics, Novartis Institutes for Biomedical Research
 
 ## Undergraduate Students
-### Tyler Chung
+### Sangyun (Tyler) Chung
 
 ### Ada Hui
 
