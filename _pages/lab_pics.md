@@ -12,7 +12,7 @@ gallery:
     title: "Daisy's birthday"
   - url: /assets/images/lab_pics/jordi_gurol.jpg
     image_path: /assets/images/lab_pics/jordi_gurol.jpg
-    title: "Jordi and Gurol"
+    title: "Gurol and Jordi"
   - url: /assets/images/lab_pics/cozy_lab.jpg
     image_path: /assets/images/lab_pics/cozy_lab.jpg
     title: "Working during construction"
