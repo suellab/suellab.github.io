@@ -4,7 +4,7 @@ layout: single
 classes: wide
 
 gallery:
- - url: /assets/images/lab_pics/farewell_party_2019.jpg
+  - url: /assets/images/lab_pics/farewell_party_2019.jpg
     image_path: /assets/images/lab_pics/farewell_party_2019.jpg
     title: "Goodbye party for Daisy, Maja, and Alan"
   - url: /assets/images/lab_pics/december_2018.jpg
