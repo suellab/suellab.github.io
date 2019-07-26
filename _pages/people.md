@@ -43,6 +43,12 @@ chy062@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2225B
 
+![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
+### Letícia Galera-Laporta, Ph.D
+lgaleralaporta@ucsd.edu  
+Postdoctoral Researcher  
+Phone: x4-0041, Room 2224A
+
 ![](/assets/images/lab_members/Kaito.png){:height="200px" width="200px"}
 ### Kaito Kikuchi
 kaito@ucsd.edu  
@@ -67,6 +73,13 @@ Phone: x4-0041, Room 2225B
 amoon0222@gmail.com  
 Research Assistant  
 Phone: x4-0041, Room 2225B
+
+![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
+### Daphne He 
+
+![](/assets/images/lab_members/Steven.png){:height="200px" width="200px"}
+### Steven Lopez 
+Research Assistant
 
 
 ## Alumni
