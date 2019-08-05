@@ -19,24 +19,6 @@ Postdoctoral Researcher
 Phone: x4-0041, Room 2224A   
 [Website](https://www.joe-larkin.com){:target="_blank" rel="noopener" .btn .btn--primary }  
 
-![](/assets/images/lab_members/Maja.png){:height="200px" width="200px"}
-### Maja Bialecka-Fornal, Ph.D
-mbialeckafornal@ucsd.edu  
-Postdoctoral Researcher   
-Phone: x4-0041, Room 2225B
-
-![](/assets/images/lab_members/Alan.png){:height="200px" width="200px"}
-### Alan Gillman, Ph.D
-gillman.a@gmail.com  
-Postdoctoral Researcher  
-Phone: x4-0041, Room 2224A
-
-![](/assets/images/lab_members/Daisy.png){:height="200px" width="200px"}
-### Dong-yeon Lee (Daisy), Ph.D
-dol001@ucsd.edu  
-Postdoctoral Researcher  
-Phone: x4-0041, Room 2225B
-
 ![](/assets/images/lab_members/Alex.png){:height="200px" width="200px"}
 ### Chih-Yu Yang (Alex), Ph.D
 chy062@ucsd.edu  
@@ -86,6 +68,11 @@ Research Assistant
 ## Alumni
 
 ## Postdoctoral Researchers
+### Alan Gilman, Ph.D
+Current: Olympus America Inc.
+
+### Maja Bialecka-Fornal, Ph.D  
+
 ### Jintao Liu, Ph.D
 Current: [Assistant Professor at Tsinghua University](http://www.med.tsinghua.edu.cn/Person?method=102&perId=270)
 
@@ -105,6 +92,9 @@ Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 Current: Instructor at the Chook Lab, UT Southwestern
 
 ## Graduate Students
+### Dong-yeon Lee (Daisy), Ph.D
+Current: Postdoctoral researcher at the Fischbach lab, Stanford University
+
 ### Jacqueline Humphries, Ph.D
 Current: Scientist at Amyris, Inc.
 
