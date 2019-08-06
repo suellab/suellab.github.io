@@ -69,7 +69,7 @@ Research Assistant
 
 ## Postdoctoral Researchers
 ### Alan Gilman, Ph.D
-Current: Olympus America Inc.
+Current: Research Imaging Specialist, Olympus America Inc.
 
 ### Maja Bialecka-Fornal, Ph.D  
 
