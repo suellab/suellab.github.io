@@ -58,11 +58,11 @@ Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
 ### Daphne He 
-Undergraduate volunteer  
+Undergraduate Volunteer  
 
 ![](/assets/images/lab_members/Steven.png){:height="200px" width="200px"}
 ### Steven Lopez 
-Undergraduate volunteer
+Undergraduate Volunteer
 
 
 ## Alumni
