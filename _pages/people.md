@@ -68,7 +68,7 @@ Undergraduate Volunteer
 ## Alumni
 
 ## Postdoctoral Researchers
-### Alan Gilman, Ph.D
+### Alan Gillman, Ph.D
 Current: Research Imaging Specialist, Olympus America Inc.
 
 ### Maja Bialecka-Fornal, Ph.D  
