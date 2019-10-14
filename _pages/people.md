@@ -6,33 +6,28 @@ classes: wide
 ---
 
 ![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
-### Gürol M. Süel, Ph.D
+### Gürol M. Süel, PhD
 gsuel@ucsd.edu  
 Professor, Section of Molecular Biology  
 Phone: x4-0036, Room 2225A  
 [Biography](/gurol_bio/){:target="_blank" rel="noopener" .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Joe.png){:height="200px" width="200px"}
-### Joseph Larkin, Ph.D  
-jwlarkin@ucsd.edu    
-Postdoctoral Researcher     
-Phone: x4-0041, Room 2224A   
-[Website](https://www.joe-larkin.com){:target="_blank" rel="noopener" .btn .btn--primary }  
 
 ![](/assets/images/lab_members/Alex.png){:height="200px" width="200px"}
-### Chih-Yu Yang (Alex), Ph.D
+### Chih-Yu Yang (Alex), PhD
 chy062@ucsd.edu  
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
-### Letícia Galera-Laporta, Ph.D
+### Letícia Galera-Laporta, PhD
 lgaleralaporta@ucsd.edu  
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
-### Jian-geng Chiou, Ph.D
+### Jian-geng Chiou, PhD
 jchiou@ucsd.edu  
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A  
@@ -74,49 +69,52 @@ Undergraduate Volunteer
 ## Alumni
 
 ## Postdoctoral Researchers
-### Alan Gillman, Ph.D
+### Joseph Larkin, PhD  
+Current: Assistant Professor at Boston University  
+
+### Alan Gillman, PhD
 Current: Research Imaging Specialist, Olympus America Inc.
 
-### Maja Bialecka-Fornal, Ph.D  
+### Maja Bialecka-Fornal, PhD  
 
-### Jintao Liu, Ph.D
+### Jintao Liu, PhD
 Current: [Assistant Professor at Tsinghua University](http://www.med.tsinghua.edu.cn/Person?method=102&perId=270)
 
-### Arthur B. Prindle, Ph.D
+### Arthur B. Prindle, PhD
 Current: [Assistant Professor at Northwestern University](https://sites.northwestern.edu/prindle/)
 
-### Munehiro Asally, Ph.D
+### Munehiro Asally, PhD
 Current: [Assistant Professor at the University of Warwick](https://homepages.warwick.ac.uk/staff/M.Asally/index.html)
 
-### Melissa Anderson, Ph.D
+### Melissa Anderson, PhD
 Current: Director of Research and Development, T2 Energy
 
-### Luise Kleine-Borgmann, Ph.D
+### Luise Kleine-Borgmann, PhD
 Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 
-### Tolga Çagatay, Ph.D
+### Tolga Çagatay, PhD
 Current: Instructor at the Chook Lab, UT Southwestern
 
 ## Graduate Students
-### Dong-yeon Lee (Daisy), Ph.D
+### Dong-yeon Lee (Daisy), PhD
 Current: Postdoctoral researcher at the Fischbach lab, Stanford University
 
-### Jacqueline Humphries, Ph.D
+### Jacqueline Humphries, PhD
 Current: Scientist at Amyris, Inc.
 
-### Fang Zhang, Ph.D
+### Fang Zhang, PhD
 Current: Postdoctoral researcher at the Hulleman Lab, UT Southwestern
 
-### Mark Kittisopikul, Ph.D
+### Mark Kittisopikul, PhD
 Current: Postdoctoral researcher at the Goldman Lab, Northwestern University
 
-### Anna Kuchina, Ph.D
+### Anna Kuchina, PhD
 Current: Postdoctoral researcher at the Seelig Lab, University of Washington
 
-### Eric Archer
+### Eric Archer, PhD  
 Current: Teacher at Garland ISD
 
-### Andra Robinson
+### Andra Robinson, MS  
 Current: RBC Life Sciences
 
 ## Staff
@@ -153,7 +151,7 @@ Current: Investigator II, Bioinformatics, Novartis Institutes for Biomedical Res
 Current: Lab technician at the Fillon lab, Centre for Genomic Regulation, Barcelona
 
 ### Renske Van Raaphorst
-Current: Ph.D Student at the Veening lab, University of Lausanne
+Current: PhD Student at the Veening lab, University of Lausanne
 
 ### Carla Vidal
 Current: Pontificial Catholic University of Chile
