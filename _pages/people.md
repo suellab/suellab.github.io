@@ -12,8 +12,6 @@ Professor, Section of Molecular Biology
 Phone: x4-0036, Room 2225A  
 [Biography](/gurol_bio/){:target="_blank" rel="noopener" .btn .btn--primary }  
 
-![](/assets/images/lab_members/Joe.png){:height="200px" width="200px"}
-
 ![](/assets/images/lab_members/Alex.png){:height="200px" width="200px"}
 ### Chih-Yu Yang (Alex), PhD
 chy062@ucsd.edu  
