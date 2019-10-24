@@ -7,6 +7,9 @@ tags: []
 ---
 
 ## Journal Articles
+Statistics of correlated percolation in a bacterial community  
+Zhai X., Larkin J.W., Kikuchi K., Redford S.E., Roy U., Süel G.M., and Mugler A.  
+PLoS Computational Biology (in press)  
 
 [Metabolic basis of brain-like electrical signalling in bacterial communities](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0382){:target="_blank" rel="noopener"}  
 Martinez-Corral R., Liu J., Prindle A., Süel G.M., and Garcia-Ojalvo J.  
