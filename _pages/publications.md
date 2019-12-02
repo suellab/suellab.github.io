@@ -7,7 +7,7 @@ tags: []
 ---
 
 ## Journal Articles
-[Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"} 
+[Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"}  
 Zhai X., Larkin J.W., Kikuchi K., Redford S.E., Roy U., Süel G.M., and Mugler A.  
 PLoS Comput. Biol., 2019; Volume 15, Issue 12.    
 
