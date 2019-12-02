@@ -7,9 +7,9 @@ tags: []
 ---
 
 ## Journal Articles
-Statistics of correlated percolation in a bacterial community  
+[Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"} 
 Zhai X., Larkin J.W., Kikuchi K., Redford S.E., Roy U., Süel G.M., and Mugler A.  
-PLoS Computational Biology (in press)  
+PLoS Comput. Biol., 2019; Volume 15, Issue 12.    
 
 [Metabolic basis of brain-like electrical signalling in bacterial communities](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0382){:target="_blank" rel="noopener"}  
 Martinez-Corral R., Liu J., Prindle A., Süel G.M., and Garcia-Ojalvo J.  
