@@ -30,6 +30,12 @@ jchiou@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A  
 
+![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
+### Colin Comerci, PhD
+ccomerci@ucsd.edu  
+Postdoctoral Researcher  
+Phone: x4-0041, Room 2224A  
+
 ![](/assets/images/lab_members/Kaito.png){:height="200px" width="200px"}
 ### Kaito Kikuchi
 kaito@ucsd.edu  
