@@ -18,7 +18,7 @@ chy062@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2225B
 
-![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
+![](/assets/images/lab_members/Leticia.png){:height="200px" width="200px"}
 ### Letícia Galera-Laporta, PhD
 lgaleralaporta@ucsd.edu  
 Postdoctoral Researcher  
