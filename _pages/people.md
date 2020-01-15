@@ -123,7 +123,7 @@ Current: RBC Life Sciences
 
 ## Staff
 ### Samantha Hammack
-Current: DVM student at the University of Illinois College of Veterinary Medicine
+Current: DVM/PhD student at the University of Illinois College of Veterinary Medicine
 
 ### My Pham (Doug)
 Current: Student at the Skaggs School of Pharmacy, University of Colorado
