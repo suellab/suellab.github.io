@@ -24,7 +24,7 @@ lgaleralaporta@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A
 
-![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
+![](/assets/images/lab_members/Jian-geng.png){:height="200px" width="200px"}
 ### Jian-geng Chiou, PhD
 jchiou@ucsd.edu  
 Postdoctoral Researcher  
