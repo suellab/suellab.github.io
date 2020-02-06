@@ -7,6 +7,11 @@ tags: []
 ---
 
 ## Journal Articles
+Spiral wave propagation in communities with spatially correlated heterogeneity   
+Zhai X., Larkin J.W., Süel G.M., and Mugler A.  
+Biophysical Journal, 2020; in press.    
+
+
 [Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"}  
 Zhai X., Larkin J.W., Kikuchi K., Redford S.E., Roy U., Süel G.M., and Mugler A.  
 PLoS Comput. Biol., 2019; Volume 15, Issue 12.    
