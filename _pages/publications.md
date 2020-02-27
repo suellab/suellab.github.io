@@ -7,7 +7,7 @@ tags: []
 ---
 
 ## Journal Articles
-Spiral wave propagation in communities with spatially correlated heterogeneity   
+[Spiral wave propagation in communities with spatially correlated heterogeneity](https://bit.ly/2TmG4Jf){:target="_blank" rel="noopener"}   
 Zhai X., Larkin J.W., Süel G.M., and Mugler A.  
 Biophysical Journal, 2020; in press.    
 
