@@ -56,11 +56,11 @@ Molecular Systems Biology. 2016; 12(5)
 Mugler A.\*, Kittisopikul M.\*, Hayden L., Liu J., Wiggins C.H., Süel G.M., and Walczak A.M. (\*equal contributors)  
 PLoS Computational Biology. 2016; 12(3)
  	 
-[Ion channels enable electrical communication in bacterial communities](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature15709.html){:target="_blank" rel="noopener"}  
+[Ion channels enable electrical communication in bacterial communities](https://www.nature.com/articles/nature15709){:target="_blank" rel="noopener"}  
 Prindle A., Liu J., Asally M., Ly S., Garcia-Ojalvo J., and Süel G.M.  
 Nature. 2015; 527(7576)
  	 
-[Metabolic co-dependence gives rise to collective oscillations within biofilms](http://www.nature.com/nature/journal/v523/n7562/full/nature14660.html){:target="_blank" rel="noopener"}  
+[Metabolic co-dependence gives rise to collective oscillations within biofilms](https://www.nature.com/articles/nature14660){:target="_blank" rel="noopener"}  
 Liu J., Prindle A.\*, Humphries J.\*, Gabalda-Sagarra M.\*, Asally M.\*, Lee D.D., Ly S., Garcia-Ojalvo J., and Süel G.M.  
 (\*equal contributors)    
 Nature. 2015; 523(7562)
