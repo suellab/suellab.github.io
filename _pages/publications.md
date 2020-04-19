@@ -15,7 +15,7 @@ Cell Systems, 2020; in press.
 
 [Spiral wave propagation in communities with spatially correlated heterogeneity](https://bit.ly/2TmG4Jf){:target="_blank" rel="noopener"}   
 Zhai X., Larkin J.W., Süel G.M., and Mugler A.  
-Biophysical Journal, 2020; in press.    
+Biophysical Journal, 2020; Volume 118, Issue 7, 1721-1732.    
 
 
 [Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"}  
