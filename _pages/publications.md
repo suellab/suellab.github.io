@@ -7,10 +7,10 @@ tags: []
 ---
 
 ## Journal Articles
-Encoding membrane potential-based memory within a microbial community  
+[Encoding membrane potential-based memory within a microbial community](https://bit.ly/2YaZXal){:target="_blank" rel="noopener"}  
 Yang C.\*,Bialecka-Fornal M.\*, Weatherwax C., Larkin J.W., Prindle A., Liu J., Garcia-Ojalvo J., Süel G.M.
 (\*equal contributors)  
-Cell Systems, 2020; in press.
+Cell Systems, 2020; 
 
 
 [Spiral wave propagation in communities with spatially correlated heterogeneity](https://bit.ly/2TmG4Jf){:target="_blank" rel="noopener"}   
