@@ -4,6 +4,18 @@ title: "Press"
 layout: single
 
 ---
+![](/assets/images/press/forbes.png){: width="200px"}  
+[Scientists Just Brought Us One Step Closer To A Living Computer.](https://www.forbes.com/sites/alisonescalante/2020/04/29/scientists-just-brought-us-one-step-closer-to-a-living-computer/){:target="_blank" rel="noopener"}  
+By Alison Escalante  
+April 29, 2020
+
+
+![](/assets/images/press/popularscience.png){: width="200px"}  
+[Teams of bacteria have working memories remarkably like ours](https://www.popsci.com/story/health/bacteria-biofilm-memory-neurons/){:target="_blank" rel="noopener"}  
+By Kat Eschner  
+April 29, 2020
+
+
 ![](/assets/images/press/quanta.png){: width="200px"}  
 [Bacteria Use Brainlike Bursts of Electricity to Communicate](https://www.quantamagazine.org/bacteria-use-brainlike-bursts-of-electricity-to-communicate-20170905){:target="_blank" rel="noopener"}  
 By Gabriel Popkin, Contributing Writer  
