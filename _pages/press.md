@@ -4,6 +4,8 @@ title: "Press"
 layout: single
 
 ---
+  
+  
 ![](/assets/images/press/forbes.png){: width="200px"}  
 [Scientists Just Brought Us One Step Closer To A Living Computer.](https://www.forbes.com/sites/alisonescalante/2020/04/29/scientists-just-brought-us-one-step-closer-to-a-living-computer/){:target="_blank" rel="noopener"}  
 By Alison Escalante  
