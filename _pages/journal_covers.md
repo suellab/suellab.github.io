@@ -10,8 +10,8 @@ gallery:
   - url: /assets/images/journal_covers/cell_systems_percolation.jpg
     image_path: /assets/images/journal_covers/cell_systems_percolation.jpg
     title: "Cell Systems Aug 22, 2018"
-  - url: /assets/images/journal_covers/jb_electricsignaling.jpg
-    image_path: /assets/images/journal_covers/jb_electricsignaling.jpg
+  - url: /assets/images/journal_covers/jb_electricalsignaling.jpg
+    image_path: /assets/images/journal_covers/jb_electricalsignaling.jpg
     title: "Journal of Bacteriology Oct 1, 2016"
   - url: /assets/images/journal_covers/cell_betting.jpeg
     image_path: /assets/images/journal_covers/cell_betting.jpeg
