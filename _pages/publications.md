@@ -10,7 +10,7 @@ tags: []
 [Encoding membrane potential-based memory within a microbial community](https://bit.ly/2YaZXal){:target="_blank" rel="noopener"}  
 Yang C.\*,Bialecka-Fornal M.\*, Weatherwax C., Larkin J.W., Prindle A., Liu J., Garcia-Ojalvo J., Süel G.M.
 (\*equal contributors)  
-Cell Systems, 2020;  
+Cell Systems, 2020; Volume 10, Issue 5, P417-423.   
 *Featured in the Cover*
 
 
