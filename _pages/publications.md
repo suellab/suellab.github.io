@@ -37,7 +37,7 @@ Martinez-Corral R., Liu, J., Süel G.M., and Garcia-Ojalvo J.
 Proc Natl Acad Sci U S A., September 4, 2018 115 (36) E8333-E8340;
 
 [Signal percolation within a bacterial community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X){:target="_blank" rel="noopener"}  
-Larkin J.W., Zhai X., Kikuchi K., Redford S., Prindle A., Liu J.,Greenfield S., Walczak A.M., Garcia-Ojalvo J., Mugler A. and Süel G.M.  
+Larkin J.W., Zhai X., Kikuchi K., Redford S.E., Prindle A., Liu J., Greenfield S., Walczak A.M., Garcia-Ojalvo J., Mugler A. and Süel G.M.  
 Cell Systems, 2018; Volume 7, 1-9.  
 *Featured in the Cover*
 
