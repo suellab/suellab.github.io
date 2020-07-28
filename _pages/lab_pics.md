@@ -4,6 +4,9 @@ layout: single
 classes: wide
 
 gallery:
+  - url: /assets/images/lab_pics/social_distancing.jpg
+    image_path: /assets/images/lab_pics/fsocial_distancing.jpg
+    title: "Socially distanced lab meeting, July 2020"
   - url: /assets/images/lab_pics/farewell_party_2019.jpg
     image_path: /assets/images/lab_pics/farewell_party_2019.jpg
     title: "Goodbye party for Daisy, Maja, and Alan"
