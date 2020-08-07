@@ -7,7 +7,7 @@ layout: single
  
  ![](/assets/images/press/mind_matters.jpg){: width="200px"}  
 [In what ways are bacteria intelligent?](https://mindmatters.ai/2020/08/in-what-ways-are-bacteria-intelligent/){:target="_blank" rel="noopener"}  
-By Denyse O'Leary 
+By Denyse O'Leary  
 August 6, 2020
   
 ![](/assets/images/press/forbes.png){: width="200px"}  
