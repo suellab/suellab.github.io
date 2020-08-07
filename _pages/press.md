@@ -4,7 +4,11 @@ title: "Press"
 layout: single
 
 ---
-  
+ 
+ ![](/assets/images/press/mind_matters.jpg){: width="200px"}  
+[In what ways are bacteria intelligent?](https://mindmatters.ai/2020/08/in-what-ways-are-bacteria-intelligent/){:target="_blank" rel="noopener"}  
+By Denyse O'Leary 
+August 6, 2020
   
 ![](/assets/images/press/forbes.png){: width="200px"}  
 [Scientists Just Brought Us One Step Closer To A Living Computer.](https://www.forbes.com/sites/alisonescalante/2020/04/29/scientists-just-brought-us-one-step-closer-to-a-living-computer/){:target="_blank" rel="noopener"}  
