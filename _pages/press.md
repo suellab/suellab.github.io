@@ -16,7 +16,6 @@ August 6, 2020
 By Alison Escalante  
 April 29, 2020
 
-
 ![](/assets/images/press/popularscience.png){: width="200px"}  
 [Teams of bacteria have working memories remarkably like ours](https://www.popsci.com/story/health/bacteria-biofilm-memory-neurons/){:target="_blank" rel="noopener"}  
 By Kat Eschner  
