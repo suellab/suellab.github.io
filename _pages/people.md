@@ -52,13 +52,13 @@ Phone: x4-0041, Room 2224A
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
 ### Kwang-Tao Chou (Todd)
 kwchou@ucsd.edu  
-Lab Manager  
+PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
 ### Eunchae Moon (Ashley)
 amoon0222@gmail.com  
-Research Assistant  
+PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
