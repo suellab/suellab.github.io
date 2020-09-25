@@ -61,10 +61,6 @@ amoon0222@gmail.com
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
-![](/assets/images/lab_members/bacteria.png){:height="200px" width="200px"}
-### Daphne He 
-Undergraduate Volunteer  
-
 ![](/assets/images/lab_members/Steven.png){:height="200px" width="200px"}
 ### Steven Lopez 
 Undergraduate Volunteer
@@ -138,6 +134,8 @@ Current: Teacher at Dallas ISD
 Current: Investigator II, Bioinformatics, Novartis Institutes for Biomedical Research
 
 ## Undergraduate Students
+### Daphne He 
+
 ### Sangyun (Tyler) Chung
 
 ### Ada Hui
