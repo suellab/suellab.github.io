@@ -51,7 +51,7 @@ Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
 ### Kwang-Tao Chou (Todd)
-kwchou@ucsd.edu  
+toddchou@ucsd.edu  
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
