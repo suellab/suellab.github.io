@@ -43,11 +43,6 @@ PhD Student (Biological Sciences)
 Phone: x4-0041, Room 2224A  
 [Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }
 
-![](/assets/images/lab_members/Colleen.png){:height="200px" width="200px"}
-### Colleen Weatherwax
-cweather@ucsd.edu  
-PhD Student (Bioinformatics and Systems Biology)  
-Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
 ### Kwang-Tao Chou (Todd)
@@ -57,7 +52,7 @@ Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
 ### Eunchae Moon (Ashley)
-amoon0222@gmail.com  
+emoon@ucsd.edu  
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
@@ -70,12 +65,13 @@ Undergraduate Volunteer
 
 ## Postdoctoral Researchers
 ### Joseph Larkin, PhD  
-Current: Assistant Professor at Boston University  
+Current: [Assistant Professor at Boston University ](https://www.larkinlab.com/) 
 
 ### Alan Gillman, PhD
 Current: Research Imaging Specialist, Olympus America Inc.
 
 ### Maja Bialecka-Fornal, PhD  
+Current: Research and Development Consultant, GAEU Consulting  
 
 ### Jintao Liu, PhD
 Current: [Assistant Professor at Tsinghua University](http://www.med.tsinghua.edu.cn/Person?method=102&perId=270)
@@ -96,6 +92,8 @@ Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 Current: Instructor at the Chook Lab, UT Southwestern
 
 ## Graduate Students
+### Colleen Weatherwax, MS
+
 ### Dong-yeon Lee (Daisy), PhD
 Current: Postdoctoral researcher at the Fischbach lab, Stanford University
 
