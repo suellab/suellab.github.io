@@ -104,7 +104,7 @@ Current: Scientist at Amyris, Inc.
 Current: Postdoctoral researcher at the Hulleman Lab, UT Southwestern
 
 ### Mark Kittisopikul, PhD
-Current: Postdoctoral researcher at the Goldman Lab, Northwestern University
+Current: Scientific Computing Associate II, Janelia Research Campus, Howard Hughes Medical Institute
 
 ### Anna Kuchina, PhD
 Current: Postdoctoral researcher at the Seelig Lab, University of Washington
