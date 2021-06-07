@@ -12,12 +12,6 @@ Professor, Section of Molecular Biology
 Phone: x4-0036, Room 2225A  
 [Biography](/gurol_bio/){:target="_blank" rel="noopener" .btn .btn--primary }  
 
-![](/assets/images/lab_members/Alex.png){:height="200px" width="200px"}
-### Chih-Yu Yang (Alex), PhD
-chy062@ucsd.edu  
-Postdoctoral Researcher  
-Phone: x4-0041, Room 2225B
-
 ![](/assets/images/lab_members/Leticia.png){:height="200px" width="200px"}
 ### Letícia Galera-Laporta, PhD
 lgaleralaporta@ucsd.edu  
@@ -64,6 +58,9 @@ Undergraduate Volunteer
 ## Alumni
 
 ## Postdoctoral Researchers
+### Chih-Yu Yang (Alex), PhD
+Current: Postdoctoral fellow at the Kleckner lab, Harvard University
+
 ### Joseph Larkin, PhD  
 Current: [Assistant Professor at Boston University ](https://www.larkinlab.com/){:target="_blank" rel="noopener"}   
 
