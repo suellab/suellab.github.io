@@ -7,8 +7,14 @@ tags: []
 ---
 
 ## Journal Articles
+[IonoBiology: The functional dynamics of the intracellular metallome, with lessons from bacteria](https://www.sciencedirect.com/science/article/pii/S240547122100154X?dgcid=coauthor){:target="_blank" rel="noopener"}  
+Galera-Laporta L.\*, Comerci C.J.\*, Garcia-Ojalvo J., Süel G.M.  
+(\*equal contributors)  
+Cell Systems, 2021; Volume 12, Issue 6, 497-508.  
+
+
 [Encoding membrane potential-based memory within a microbial community](https://bit.ly/2YaZXal){:target="_blank" rel="noopener"}  
-Yang C.\*,Bialecka-Fornal M.\*, Weatherwax C., Larkin J.W., Prindle A., Liu J., Garcia-Ojalvo J., Süel G.M.
+Yang C.\*,Bialecka-Fornal M.\*, Weatherwax C., Larkin J.W., Prindle A., Liu J., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell Systems, 2020; Volume 10, Issue 5, 417-423.   
 *Featured in the Cover*
