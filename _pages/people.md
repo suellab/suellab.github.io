@@ -120,7 +120,7 @@ Current: DVM/PhD student at the University of Illinois College of Veterinary Med
 Current: Student at the Skaggs School of Pharmacy, University of Colorado
 
 ### San Ly
-Current: Student at the Daniel K. Inouye College of Pharmacy, University of Hawaiʻi at Hilo
+Current: Clinical Pharmacist, Sharp HealthCare
 
 ### Alma Alvarado
 Current: Teacher at Dallas ISD
