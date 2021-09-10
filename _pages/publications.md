@@ -7,7 +7,7 @@ tags: []
 ---
 
 ## Journal Articles
-[IonoBiology: The functional dynamics of the intracellular metallome, with lessons from bacteria](https://authors.elsevier.com/c/1dFUf_siQzmxUw){:target="_blank" rel="noopener"}  
+[IonoBiology: The functional dynamics of the intracellular metallome, with lessons from bacteria](https://www.sciencedirect.com/science/article/abs/pii/S240547122100154X){:target="_blank" rel="noopener"}  
 Galera-Laporta L.\*, Comerci C.J.\*, Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell Systems, 2021; Volume 12, Issue 6, 497-508.  
