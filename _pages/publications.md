@@ -108,7 +108,7 @@ ACS Synthetic Biology, Publication Date (Web): August 17, 2012
 Orchard R.C., Kittisopikul M., Altschuler S.J., Wu L.F., Süel G.M. and Alto N.M.  
 Cell, 2012; Volume 148, Issue 4, 803-815
  	 
-[Temporal competition between differentiation programs determines cell fate choice](http://www.nature.com/msb/journal/v7/n1/full/msb201188.html){:target="_blank" rel="noopener"}  
+[Temporal competition between differentiation programs determines cell fate choice](https://www.embopress.org/doi/full/10.1038/msb.2011.88){:target="_blank" rel="noopener"}  
 Kuchina A., Espinar L., Çagatay T., Balbin A.O., Zhang F., Alvarado A., Garcia-Ojalvo J., and Süel G.M.  
 Molecular Systems Biology, 2011; (7) Article number: 557  
 *Featured article*
