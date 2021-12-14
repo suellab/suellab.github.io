@@ -7,13 +7,16 @@ tags: []
 
 <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
     <figure>
-      <img src="/assets/images/art/biofilm_dynamics.jpg" width="800px" />
+      <img src="/assets/images/art/biofilm.png" width="800px" />
     </figure>
     <figure>
       <img src="/assets/images/art/psychedelic_biofilm.jpg" width="800px" />
     </figure>
     <figure>
       <img src="/assets/images/art/swimming_bacteria.jpg" width="800px" />
+    </figure>
+    <figure>
+      <img src="/assets/images/art/Wave_clock.jpg" width="800px" />
     </figure>
 </div> <!-- // bss-slides -->
 
