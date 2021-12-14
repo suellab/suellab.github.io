@@ -15,9 +15,6 @@ tags: []
     <figure>
       <img src="/assets/images/art/swimming_bacteria.jpg" width="800px" />
     </figure>
-    <figure>
-      <img src="/assets/images/art/WaveClock.jpg" width="800px" />
-    </figure>
 </div> <!-- // bss-slides -->
 
 
