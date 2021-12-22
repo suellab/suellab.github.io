@@ -4,6 +4,9 @@ layout: single
 classes: wide
 
 gallery:
+  - url: /assets/images/lab_pics/MiniGolf.1.jpg
+    image_path: /assets/images/lab_pics/MiniGolf.1.jpg
+    title: "Mini Golf lab meeting, December 2021"
   - url: /assets/images/lab_pics/social_distancing.jpg
     image_path: /assets/images/lab_pics/social_distancing.jpg
     title: "Socially distanced lab meeting, July 2020"
