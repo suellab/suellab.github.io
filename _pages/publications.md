@@ -7,10 +7,10 @@ tags: []
 ---
 
 ## Journal Articles
-[A segmentation clock patterns cellular differentiation in a bacterial biofilm](){:target="_blank" rel="noopener"}  
+[A segmentation clock patterns cellular differentiation in a bacterial biofilm](https://authors.elsevier.com/a/1eNDbL7PXf0WT){:target="_blank" rel="noopener"}  
 Chou K.T.\*, Lee D.D.\*, Chiou J.G.\*, Galera-Laporta L., Ly S., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
-Cell, in press.  
+Cell, 2022; Volume 185, Issue 1, P145-157.E13.  
 
 
 [IonoBiology: The functional dynamics of the intracellular metallome, with lessons from bacteria](https://www.sciencedirect.com/science/article/abs/pii/S240547122100154X){:target="_blank" rel="noopener"}  
