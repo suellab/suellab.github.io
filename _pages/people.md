@@ -105,7 +105,7 @@ Current: Postdoctoral researcher at the Hulleman Lab, UT Southwestern
 Current: Scientific Computing Associate II, Janelia Research Campus, Howard Hughes Medical Institute
 
 ### Anna Kuchina, PhD
-Current: Postdoctoral researcher at the Seelig Lab, University of Washington
+Current: Assistant Professor at Institute of Systems Biology in Seattle, Washington
 
 ### Eric Archer, PhD  
 Current: Teacher at Garland ISD
