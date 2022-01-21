@@ -10,7 +10,7 @@ By John Ankers
 January 21, 2022
 
 ![](/assets/images/press/popularscience.png){: width="200px"}  
-[These sophisticated bacteria communities assemble in tie-dye formation](https://mindmatters.ai/2020/08/in-what-ways-are-bacteria-intelligent/){:target="_blank" rel="noopener"}  
+[These sophisticated bacteria communities assemble in tie-dye formation](https://www.popsci.com/science/bacteria-can-form-sophisticated-circular-patterns/){:target="_blank" rel="noopener"}  
 By Maggie Galloway
 January 10, 2022
 
@@ -20,7 +20,7 @@ By Mario Aguilera
 January 6, 2022
 
 ![](/assets/images/press/newscientist.JPG){: width="200px"}  
-[Bacteria form complex structures like those seen in animals](https://www.popsci.com/science/bacteria-can-form-sophisticated-circular-patterns/){:target="_blank" rel="noopener"}  
+[Bacteria form complex structures like those seen in animals](https://www.newscientist.com/article/2303605-bacteria-form-complex-structures-like-those-seen-in-animals/){:target="_blank" rel="noopener"}  
 By Alex Wilkins  
 January 6, 2022
 
