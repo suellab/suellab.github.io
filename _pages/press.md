@@ -9,7 +9,7 @@ layout: single
 By John Ankers   
 January 21, 2022
 
-![](/assets/images/press/popularscience.jpg){: width="200px"}  
+![](/assets/images/press/popularscience.png){: width="200px"}  
 [These sophisticated bacteria communities assemble in tie-dye formation](https://mindmatters.ai/2020/08/in-what-ways-are-bacteria-intelligent/){:target="_blank" rel="noopener"}  
 By Maggie Galloway
 January 10, 2022
