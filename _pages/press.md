@@ -4,12 +4,30 @@ title: "Press"
 layout: single
 
 ---
- 
- ![](/assets/images/press/mind_matters.jpg){: width="200px"}  
+![](/assets/images/press/Biomedicalpictureoftheday.JPG){: width="200px"}  
+[Bacteria found to organize in a similar way to vertebrate cellular patterning - insight into tackling biofilms](http://bpod.mrc.ac.uk/){:target="_blank" rel="noopener"}  
+By John Ankers   
+January 21, 2022
+
+![](/assets/images/press/popularscience.jpg){: width="200px"}  
+[These sophisticated bacteria communities assemble in tie-dye formation](https://mindmatters.ai/2020/08/in-what-ways-are-bacteria-intelligent/){:target="_blank" rel="noopener"}  
+By Maggie Galloway
+January 10, 2022
+
+![](/assets/images/press/ucsd.jpg){: width="200px"}  
+['Simple' Bacteria Found to Organize in Elaborate Patterns](https://ucsdnews.ucsd.edu/pressrelease/simple-bacteria-found-to-organize-in-elaborate-patterns){:target="_blank" rel="noopener"}  
+By Mario Aguilera  
+January 6, 2022
+
+![](/assets/images/press/newscientist.JPG){: width="200px"}  
+[Bacteria form complex structures like those seen in animals](https://www.popsci.com/science/bacteria-can-form-sophisticated-circular-patterns/){:target="_blank" rel="noopener"}  
+By Alex Wilkins  
+January 6, 2022
+
+![](/assets/images/press/mind_matters.jpg){: width="200px"}  
 [In what ways are bacteria intelligent?](https://mindmatters.ai/2020/08/in-what-ways-are-bacteria-intelligent/){:target="_blank" rel="noopener"}  
 By Denyse O'Leary  
 August 6, 2020
-  
 
 ![](/assets/images/press/forbes.png){: width="200px"}  
 [Scientists Just Brought Us One Step Closer To A Living Computer.](https://www.forbes.com/sites/alisonescalante/2020/04/29/scientists-just-brought-us-one-step-closer-to-a-living-computer/){:target="_blank" rel="noopener"}  
