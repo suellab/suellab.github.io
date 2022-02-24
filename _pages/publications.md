@@ -11,7 +11,7 @@ tags: []
 Chou K.T.\*, Lee D.D.\*, Chiou J.G.\*, Galera-Laporta L., Ly S., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell, 2022; Volume 185, Issue 1, P145-157.E13.  
-[Preview](https://bit.ly/3eYfJg5)
+[Preview](https://bit.ly/3hkgZel)
 
 
 [IonoBiology: The functional dynamics of the intracellular metallome, with lessons from bacteria](https://www.sciencedirect.com/science/article/abs/pii/S240547122100154X){:target="_blank" rel="noopener"}  
