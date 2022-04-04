@@ -44,6 +44,7 @@ toddchou@ucsd.edu
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
+
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
 ### Eunchae Moon (Ashley)
 emoon@ucsd.edu  
@@ -54,6 +55,12 @@ Phone: x4-0041, Room 2225B
 ### Nicholas Wilson
 nlwilson@ucsd.edu  
 Laboratory Manager   
+Phone: x4-0041, Room 2225B
+
+![](/assets/images/lab_members/Jina_Lee.png){:height="200px" width="200px"}
+### Jina Lee
+jil143@ucsd.edu
+Undergraduate Volunteer  
 Phone: x4-0041, Room 2225B
 
 ## Alumni
