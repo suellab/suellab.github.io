@@ -11,6 +11,7 @@ tags: []
 Comerci C.J\*, Gilman A.L.\*, Galera-Laporta L.\*, Gutierrez E., Groaisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell Systems, In Press.
+[Preview](https://bit.ly/38QnhBs)
 
 
 [A segmentation clock patterns cellular differentiation in a bacterial biofilm](https://www.sciencedirect.com/science/article/pii/S0092867421014045?dgcid=author){:target="_blank" rel="noopener"}  
