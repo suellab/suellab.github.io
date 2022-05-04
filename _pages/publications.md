@@ -7,6 +7,12 @@ tags: []
 ---
 
 ## Journal Articles
+[Localized electrical stimulation triggers cell-type-specific proliferation in biofilms](https://www.sciencedirect.com/science/article/pii/S2405471222001661?dgcid=author){:target="_blank" rel="noopener"}  
+Comerci C.J\*, Gilman A.L.\*, Galera-Laporta L.\*, Gutierrez E., Groaisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
+(\*equal contributors)  
+Cell Systems, In Press.
+
+
 [A segmentation clock patterns cellular differentiation in a bacterial biofilm](https://www.sciencedirect.com/science/article/pii/S0092867421014045?dgcid=author){:target="_blank" rel="noopener"}  
 Chou K.T.\*, Lee D.D.\*, Chiou J.G.\*, Galera-Laporta L., Ly S., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
