@@ -98,6 +98,7 @@ Current: Instructor at the Chook Lab, UT Southwestern
 
 ## Graduate Students
 ### Colleen Weatherwax, MS
+Current: Programmer at PHICOR (Public Health Informatics, Computational, and Operations Research)
 
 ### Dong-yeon Lee (Daisy), PhD
 Current: Postdoctoral researcher at the Fischbach lab, Stanford University
