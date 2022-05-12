@@ -5,8 +5,8 @@ layout: single
 
 ---
 ![](/assets/images/press/ucsd.jpg){: width="200px"}  
-[Researchers Manipulate Demographic of Bacterial Community with Novel Electronic Technology](https://ucsdnews.ucsd.edu/pressrelease/researchers-manipulate-demographic-of-bacterial-community-with-novel-electronic-technology){:target="_blank" rel="noopener"} 
-By Mario Aguilera   
+[Researchers Manipulate Demographic of Bacterial Community with Novel Electronic Technology](https://ucsdnews.ucsd.edu/pressrelease/researchers-manipulate-demographic-of-bacterial-community-with-novel-electronic-technology){:target="_blank" rel="noopener"}     
+By Mario Aguilera    
 May 04, 2022
 
 ![](/assets/images/press/Biomedicalpictureoftheday.JPG){: width="200px"}  
@@ -16,7 +16,7 @@ January 21, 2022
 
 ![](/assets/images/press/popularscience.png){: width="200px"}  
 [These sophisticated bacteria communities assemble in tie-dye formation](https://www.popsci.com/science/bacteria-can-form-sophisticated-circular-patterns/){:target="_blank" rel="noopener"}  
-By Maggie Galloway
+By Maggie Galloway     
 January 10, 2022
 
 ![](/assets/images/press/ucsd.jpg){: width="200px"}  
