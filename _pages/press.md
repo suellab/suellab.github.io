@@ -4,6 +4,11 @@ title: "Press"
 layout: single
 
 ---
+![](/assets/images/press/ucsd.jpg){: width="200px"}  
+[Researchers Manipulate Demographic of Bacterial Community with Novel Electronic Technology](https://ucsdnews.ucsd.edu/pressrelease/researchers-manipulate-demographic-of-bacterial-community-with-novel-electronic-technology){:target="_blank" rel="noopener"} 
+By Mario Aguilera   
+May 04, 2022
+
 ![](/assets/images/press/Biomedicalpictureoftheday.JPG){: width="200px"}  
 [Bacteria found to organize in a similar way to vertebrate cellular patterning - insight into tackling biofilms](http://bpod.mrc.ac.uk/){:target="_blank" rel="noopener"}  
 By John Ankers   
