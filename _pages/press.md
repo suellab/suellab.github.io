@@ -4,6 +4,12 @@ title: "Press"
 layout: single
 
 ---
+![](/assets/images/press/Labroots.png){: width="200px"}  
+[Electricity Can Have a Surprising Effect on Biofilms](https://www.labroots.com/trending/microbiology/22687/electricity-surprising-effect-biofilms?fbclid=IwAR1OyxTXAHSNMXYD0GguHF22Fu9f-PP1q9iyxqnF7quvStC0pkaazusurPo){:target="_blank" rel="noopener"}     
+By Carmen Leitch    
+May 05, 2022
+
+
 ![](/assets/images/press/ucsd.jpg){: width="200px"}  
 [Researchers Manipulate Demographic of Bacterial Community with Novel Electronic Technology](https://ucsdnews.ucsd.edu/pressrelease/researchers-manipulate-demographic-of-bacterial-community-with-novel-electronic-technology){:target="_blank" rel="noopener"}     
 By Mario Aguilera    
