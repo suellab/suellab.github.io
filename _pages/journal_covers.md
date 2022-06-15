@@ -4,6 +4,9 @@ layout: single
 classes: wide
 
 gallery:
+  - url: /assets/images/journal_covers/cellsystems_electrode.jpg
+    image_path: /assets/images/journal_covers/cellsystems_electrode.jpg
+    title: "Cell Systems June 15, 2022"
   - url: /assets/images/journal_covers/cell_systems_light.jpg
     image_path: /assets/images/journal_covers/cell_systems_light.jpg
     title: "Cell Systems May 20, 2020"
