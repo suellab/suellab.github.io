@@ -10,7 +10,7 @@ tags: []
 [Localized electrical stimulation triggers cell-type-specific proliferation in biofilms](https://www.sciencedirect.com/science/article/pii/S2405471222001661?dgcid=author){:target="_blank" rel="noopener"}  
 Comerci C.J\*, Gilman A.L.\*, Galera-Laporta L.\*, Gutierrez E., Groaisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
-Cell Systems, In Press.
+Cell Systems, 2022; Volume 13, Issue 6, P488-498.E4.
 [Preview](https://bit.ly/38QnhBs)
 
 
