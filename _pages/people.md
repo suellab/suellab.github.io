@@ -103,11 +103,14 @@ Current: Programmer at PHICOR Public Health Informatics, Computational, and Oper
 ### Dong-yeon Lee (Daisy), PhD
 Current: Postdoctoral researcher at the Fischbach lab, Stanford University
 
+### Nancy Yuan, MS
+Current: Data Scientist in Health Informatics
+
 ### Jacqueline Humphries, PhD
 Current: Scientist at Amyris, Inc.
 
-### Fang Zhang (Nancy), PhD
-Current: Data Scientist in Health Informatics
+### Fang Zhang, PhD
+Current: Postdoctoral researcher at the Hulleman Lab, UT Southwestern
 
 ### Mark Kittisopikul, PhD
 Current: Scientific Computing Associate II, Janelia Research Campus, Howard Hughes Medical Institute
