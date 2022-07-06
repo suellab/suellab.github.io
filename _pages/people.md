@@ -107,7 +107,7 @@ Current: Postdoctoral researcher at the Fischbach lab, Stanford University
 Current: Scientist at Amyris, Inc.
 
 ### Fang Zhang, PhD
-Current: Postdoctoral researcher at the Hulleman Lab, UT Southwestern
+Current: Data Scientist in Health Informatics
 
 ### Mark Kittisopikul, PhD
 Current: Scientific Computing Associate II, Janelia Research Campus, Howard Hughes Medical Institute
