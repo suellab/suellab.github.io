@@ -106,7 +106,7 @@ Current: Postdoctoral researcher at the Fischbach lab, Stanford University
 ### Jacqueline Humphries, PhD
 Current: Scientist at Amyris, Inc.
 
-### Fang Zhang, PhD
+### Fang Zhang (Nancy), PhD
 Current: Data Scientist in Health Informatics
 
 ### Mark Kittisopikul, PhD
