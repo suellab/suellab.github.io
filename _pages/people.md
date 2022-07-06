@@ -30,13 +30,6 @@ ccomerci@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A  
 
-![](/assets/images/lab_members/Kaito.png){:height="200px" width="200px"}
-### Kaito Kikuchi
-kaito@ucsd.edu  
-PhD Student (Biological Sciences)    
-Phone: x4-0041, Room 2224A  
-[Website](https://www.kaito.co){:target="_blank" rel="noopener" .btn .btn--primary }
-
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
 ### Kwang-Tao Chou (Todd)
@@ -97,6 +90,8 @@ Current: Postdoctoral researcher at the Skupin lab, University of Luxembourg
 Current: Instructor at the Chook Lab, UT Southwestern
 
 ## Graduate Students
+###  Kaito Kikuchi, PhD
+
 ### Colleen Weatherwax, MS
 Current: Programmer at PHICOR Public Health Informatics, Computational, and Operations Research
 
