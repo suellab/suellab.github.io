@@ -38,7 +38,7 @@ Cell Systems, 2020; Volume 10, Issue 5, 417-423.
 Zhai X., Larkin J.W., Süel G.M., and Mugler A.  
 Biophysical Journal, 2020; Volume 118, Issue 7, 1721-1732.    
 
-
+## 2019
 [Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"}  
 Zhai X., Larkin J.W., Kikuchi K., Redford S.E., Roy U., Süel G.M., and Mugler A.  
 PLoS Comput. Biol., 2019; Volume 15, Issue 12.    
@@ -52,6 +52,7 @@ Lee D.D.\*, Galera-Laporta L.\*, Bialecka-Fornal M.\*, Moon E.C., Shen Z., Brigg
 (\*equal contributors)  
 Cell, 2019; Volume 177, Issue 2, 352-360.  
 
+## 2018
 [Bistable emergence of oscillations in growing Bacillus subtilis biofilms](http://www.pnas.org/content/early/2018/08/17/1805004115){:target="_blank" rel="noopener"}  
 Martinez-Corral R., Liu, J., Süel G.M., and Garcia-Ojalvo J.  
 Proc Natl Acad Sci U S A., September 4, 2018 115 (36) E8333-E8340;
@@ -61,7 +62,7 @@ Larkin J.W., Zhai X., Kikuchi K., Redford S.E., Prindle A., Liu J., Greenfield S
 Cell Systems, 2018; Volume 7, 1-9.  
 *Featured in the Cover*
 
-
+## 2017
 [Snapshot: Electrical communication in biofilms](http://www.cell.com/cell/abstract/S0092-8674%2817%2930710-9){:target="_blank" rel="noopener"}   
 Lee D.D., Prindle A., Liu J., and Süel G.M.  
 Cell, 2017; Volume 170, Issue 1, 214-214  
@@ -74,7 +75,8 @@ Science, 2017; Volume 356, Issue 6338, 638-642
 [Species-independent attraction to biofilms through electrical signaling](http://www.cell.com/cell/fulltext/S0092-8674%2816%2931728-7){:target="_blank" rel="noopener"}  
 Humphries J., Xiong L., Liu J., Prindle A., Yuan F., Arjes H.A., Tsimring L., and Süel G.M.  
 Cell, 2017; Volume 168, Issue 1-2, 200-209  
- 	 
+ 
+## 2016	 
 [Slowdown of growth controls cellular differentiation](http://onlinelibrary.wiley.com/doi/10.15252/msb.20156691/abstract){:target="_blank" rel="noopener"}  
 Narula J., Kuchina A., Zhang F., Fujita M., Süel G.M., and Igoshin O.A.  
 Molecular Systems Biology. 2016; 12(5)  
@@ -82,7 +84,8 @@ Molecular Systems Biology. 2016; 12(5)
 [Noise expands the response range of the Bacillus subtilis competence circuit](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004793){:target="_blank" rel="noopener"}  
 Mugler A.\*, Kittisopikul M.\*, Hayden L., Liu J., Wiggins C.H., Süel G.M., and Walczak A.M. (\*equal contributors)  
 PLoS Computational Biology. 2016; 12(3)
- 	 
+ 	
+## 2015	 
 [Ion channels enable electrical communication in bacterial communities](https://www.nature.com/articles/nature15709){:target="_blank" rel="noopener"}  
 Prindle A., Liu J., Asally M., Ly S., Garcia-Ojalvo J., and Süel G.M.  
 Nature. 2015; 527(7576)
@@ -100,7 +103,8 @@ PLoS ONE, 2015; 10(7)
 Narula J., Kuchina A., Lee D.D., Fujita M., Süel G.M., and Igoshin O.A.  
 Cell, 2015; Volume 162, Issue 2, 328-337  
 [Video Abstract](https://youtu.be/FCFW0ljxTP4)
- 	 
+ 
+## 2013	 
 [Inverse Gillespie for inferring stochastic reaction mechanisms from intermittent samples](http://www.pnas.org/content/110/32/12990){:target="_blank" rel="noopener"}  
 Chattopadhyay I., Kuchina A., Süel G.M., and Lipson H.  
 Proc Natl Acad Sci U S A. June 19, 2013 Vol. 110 no. 32 12990-12995
@@ -108,7 +112,8 @@ Proc Natl Acad Sci U S A. June 19, 2013 Vol. 110 no. 32 12990-12995
 [Circuit-level input integration in bacterial gene regulation](http://dx.doi.org/10.1073/pnas.1216091110){:target="_blank" rel="noopener"}  
 Espinar L., Dies M., Çagatay T., Süel G.M., and Garcia-Ojalvo J.  
 Proc Natl Acad Sci U S A. April 23, 2013 Vol. 110 no. 17 7091-7096
- 	 
+ 
+## 2012	 
 [Localized cell death focuses mechanical forces during 3D patterning in a biofilm](http://dx.doi.org/10.1073/pnas.1212429109){:target="_blank" rel="noopener"}  
 Asally M., Kittisopikul M., Rué P., Du Y., Hu Z., Çagatay T., Robinson A.B., Lu H., Garcia-Ojalvo J., and Süel G.M.  
 Proc Natl Acad Sci U S A. September 24, 2012 Vol. 109 no. 46 18891-18896   
@@ -121,7 +126,8 @@ ACS Synthetic Biology, Publication Date (Web): August 17, 2012
 [Identification of F-actin as the central hub in a microbial-induced GTPase polarity circuit](http://www.cell.com/abstract/S0092-8674%2812%2900024-4){:target="_blank" rel="noopener"}  
 Orchard R.C., Kittisopikul M., Altschuler S.J., Wu L.F., Süel G.M. and Alto N.M.  
 Cell, 2012; Volume 148, Issue 4, 803-815
- 	 
+
+## 2011	 
 [Temporal competition between differentiation programs determines cell fate choice](https://www.embopress.org/doi/full/10.1038/msb.2011.88){:target="_blank" rel="noopener"}  
 Kuchina A., Espinar L., Çagatay T., Balbin A.O., Zhang F., Alvarado A., Garcia-Ojalvo J., and Süel G.M.  
 Molecular Systems Biology, 2011; (7) Article number: 557  
@@ -134,12 +140,14 @@ PLoS Computational Biology, 2011; 7(11)
 [Optimizing periodicity and polymodality in noise-induced genetic oscillators](http://pre.aps.org/abstract/PRE/v83/i6/e061904){:target="_blank" rel="noopener"}  
 Rué P., Süel G.M., and Garcia-Ojalvo J.  
 Physical Review E, 2011;  Vol. 83, Issue 6
- 	 
+
+## 2010 	 
 [Biological role of noise encoded in a genetic network motif](http://www.pnas.org/content/early/2010/06/23/1003975107){:target="_blank" rel="noopener"}  
 Kittisopikul M. and Süel G.M.  
 Proc Natl Acad Sci U S A. 2010; Vol. 107 no. 30 13300-13305  
 *Featured as "From The Cover"*
- 	 
+
+## 2009 	 
 [Capacity of stochastic self-renewal and differentiation in mammalian spermatogonial stem cells](http://jcb.rupress.org/content/187/4/513.abstract){:target="_blank" rel="noopener"}  
 Wu Z., Luby-Phelps K., Bugde A., Molyneux L.A., Denard B., Li W., Süel G.M., and Garbers D.  
 The Journal of Cell Biology , 2009; Vol. 187 No. 4 : 513-524
@@ -148,19 +156,23 @@ The Journal of Cell Biology , 2009; Vol. 187 No. 4 : 513-524
 Çagatay T., Turcotte M., Elowitz M.B., Garcia-Ojalvo J. and Süel G.M.  
 Cell, 2009; Volume 139, Issue 3, 512-522  
 *The Cover Story*
- 	 
+ 
+## 2008	 
 [A genetic timer through noise-induced stabilization of an unstable state](http://www.pnas.org/content/105/41/15732.abstract){:target="_blank" rel="noopener"}  
 Turcotte M., Garcia-Ojalvo, J., and Süel G.M.  
 Proc Natl Acad Sci U S A., 2008; 105(41) : 15732-15737
- 	 
+
+## 2007 	 
 [Tunability and noise dependence in differentiation dynamics](http://www.sciencemag.org/cgi/content/abstract/315/5819/1716){:target="_blank" rel="noopener"}  
 Süel G.M., Kulkami R.P., Dworkin J., Garcia-Ojalvo J., and Elowitz M.B.  
 Science 2007; 315 (5819) : 1716-1719
- 	 
+
+## 2006 	 
 [An excitable gene regulatory circuit induces transient cellular differentiation](http://www.nature.com/nature/journal/v440/n7083/abs/nature04588.html){:target="_blank" rel="noopener"}  
 Süel G.M., Garcia-Ojalvo J., Liberman L.M., and Elowitz M.B.  
 Nature. 2006; 440 (7083) : 545-50       
- 	 
+ 
+## 2003	 
 [Evolutionarily conserved networks of residues mediate allosteric communication in proteins](http://www.nature.com/nsmb/journal/v10/n1/abs/nsb881.html){:target="_blank" rel="noopener"}  
 Süel G.M., Lockless S.W., Wall M.A., and Ranganathan R.  
 Nature Structural Biology. 2003; 10 : 59-69  
