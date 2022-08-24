@@ -44,11 +44,23 @@ emoon@ucsd.edu
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
+![](/assets/images/lab_members/Maria.png){:height="200px" width="200px"}
+### Maria Kokkolaniou
+mkokkaleniou@ucsd.edu 
+Visiting PhD Student   
+Phone: x4-0041, Room 2224A
+
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
 ### Nicholas Wilson
 nlwilson@ucsd.edu  
 Laboratory Manager   
 Phone: x4-0041, Room 2225B
+
+![](/assets/images/lab_members/Ramina.png){:height="200px" width="200px"}
+### Ramina Amino
+ramino@ucsd.edu
+Graduate Volunteer   
+Phone: x4-0041, Room 2225B 
 
 ![](/assets/images/lab_members/Jina_Lee.png){:height="200px" width="200px"}
 ### Jina Lee
