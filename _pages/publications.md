@@ -7,6 +7,12 @@ tags: []
 ---
 
 ## Journal Articles
+[Electrochemical potential enables dormant spores to integrate environmental signals](https://www.science.org/doi/10.1126/science.abl7484){:target="_blank" rel="noopener"}  
+Kikuchi K.\*, Galera-Laporta L.\*, Weatherwax C., Lam J.y., Moon E.C., Theodorakis E.A., Garcia-Ojalvo J., Süel G.M.  
+(\*equal contributors)  
+Science, 2022; Volume 378, Issue 6615, P43-49.
+
+
 [Localized electrical stimulation triggers cell-type-specific proliferation in biofilms](https://www.sciencedirect.com/science/article/pii/S2405471222001661?dgcid=author){:target="_blank" rel="noopener"}  
 Comerci C.J\*, Gilman A.L.\*, Galera-Laporta L.\*, Gutierrez E., Groaisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
