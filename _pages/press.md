@@ -4,10 +4,27 @@ title: "Press"
 layout: single
 
 ---
-![](/assets/images/press/Labroots.png){: width="200px"}  
-[Electricity Can Have a Surprising Effect on Biofilms](https://www.labroots.com/trending/microbiology/22687/electricity-surprising-effect-biofilms?fbclid=IwAR1OyxTXAHSNMXYD0GguHF22Fu9f-PP1q9iyxqnF7quvStC0pkaazusurPo){:target="_blank" rel="noopener"}     
-By Carmen Leitch    
-May 05, 2022
+![](/assets/images/press/SVTNYHETER.jpg){: width="200px"}  
+[This is how deadly bacteria are awakened from their slumber](svt.se/nyheter/vetenskap/sa-vacks-dodliga-bakterier-fran-sin-supertaliga-dvala){:target="_blank" rel="noopener"}     
+By Hanna Källstig   
+October 07, 2022
+
+![](/assets/images/press/sciencealert2.JPG){: width="200px"}  
+[Unexpected Activity in 'Dead' Bacteria Detected by Scientists](https://www.sciencealert.com/unexpected-activity-in-dead-bacteria-detected-by-scientists){:target="_blank" rel="noopener"}     
+By Fiona Macdonald   
+October 07, 2022
+
+
+![](/assets/images/press/Interesting_Engineering.JPG){: width="200px"}  
+[Here is how dormant bacteria figure out the right time to become active again](https://interestingengineering.com/science/dormant-bacteria-spores-active-again){:target="_blank" rel="noopener"}     
+By Rupendra Brahambhatt   
+October 06, 2022
+
+
+![](/assets/images/press/ucsd.jpg){: width="200px"}  
+[The Thinking Undead: How Dormant Bacteria Calculate Their Return to Life](https://today.ucsd.edu/story/the-thinking-undead-how-dormant-bacteria-calculate-their-return-to-life){:target="_blank" rel="noopener"}     
+By Mario Aguilera    
+October 06, 2022
 
 
 ![](/assets/images/press/ucsd.jpg){: width="200px"}  
