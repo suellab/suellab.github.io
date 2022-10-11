@@ -4,7 +4,7 @@ title: "Press"
 layout: single
 
 ---
-![](/assets/images/press/SVTNYHETER.jpg){: width="200px"}  
+![](/assets/images/press/SVTNYHETER.JPG){: width="200px"}  
 [This is how deadly bacteria are awakened from their slumber](svt.se/nyheter/vetenskap/sa-vacks-dodliga-bakterier-fran-sin-supertaliga-dvala){:target="_blank" rel="noopener"}     
 By Hanna Källstig   
 October 07, 2022
