@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-![](/assets/images/lab_members/Gurol.png){:height="200px" width="200px"}
+![](/assets/images/lab_members/GurolS.png){:height="200px" width="200px"}
 ### Gürol M. Süel, PhD
 gsuel@ucsd.edu  
 Professor, Section of Molecular Biology  
