@@ -12,10 +12,6 @@ tags: []
     <figure>
       <img src="/assets/images/art/WaveClock_landscape.jpg" width="800px" />
     </figure>
-    <figure>
-      <figure>
-      <img src="/assets/images/art/abacus2.png" width="800px" />
-    </figure> 
     <figure> 
       <img src="/assets/images/art/biofilm_dynamics.jpg" width="800px" />
     </figure>
