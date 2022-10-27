@@ -14,7 +14,7 @@ tags: []
     </figure>
     <figure>
       <figure>
-      <img src="/assets/images/art/abacus.png" width="800px" />
+      <img src="/assets/images/art/abacus2.png" width="800px" />
     </figure> 
     <figure> 
       <img src="/assets/images/art/biofilm_dynamics.jpg" width="800px" />
