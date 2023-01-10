@@ -32,7 +32,7 @@ Phone: x4-0041, Room 2224A
 
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
-### Kwang-Tao Chou (Todd)
+### Todd Kwang-Tao Chou
 toddchou@ucsd.edu  
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
@@ -44,11 +44,6 @@ emoon@ucsd.edu
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
-![](/assets/images/lab_members/Maria.png){:height="200px" width="200px"}
-### Maria Kokkolaniou
-mkokkaleniou@ucsd.edu   
-Visiting PhD Student   
-Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
 ### Nicholas Wilson
