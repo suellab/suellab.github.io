@@ -39,7 +39,7 @@ Phone: x4-0041, Room 2225B
 
 
 ![](/assets/images/lab_members/Ashley.png){:height="200px" width="200px"}
-### Eunchae Moon (Ashley)
+### Ashley Eunchae Moon 
 emoon@ucsd.edu  
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
