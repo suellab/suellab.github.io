@@ -44,6 +44,7 @@ emoon@ucsd.edu
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
+
 ![](/assets/images/lab_members/Ramina.png){:height="200px" width="200px"}
 ### Ramina Amino
 ramino@ucsd.edu  
