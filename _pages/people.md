@@ -54,7 +54,7 @@ Phone: x4-0041, Room 2225B
 ![](/assets/images/lab_members/Ryan.png){:height="200px" width="200px"}
 ### Ryan Dogoldogol
 rdogoldo@ucsd.edu  
-Masters Student  
+Master's Student  
 Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
