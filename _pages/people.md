@@ -39,6 +39,12 @@ emoon@ucsd.edu
 PhD Student (Biological Sciences)   
 Phone: x4-0041, Room 2225B
 
+![](/assets/images/lab_members/Albert.png){:height="200px" width="200px"}
+### Albert Yang 
+akyang@ucsd.edu  
+PhD Student (bioengineering)   
+Phone: x4-0041, Room 2224A
+
 
 ![](/assets/images/lab_members/Ramina.png){:height="200px" width="200px"}
 ### Ramina Amino
@@ -51,6 +57,12 @@ Phone: x4-0041, Room 2225B
 rdogoldo@ucsd.edu  
 Master's Student  
 Phone: x4-0041, Room 2225B
+
+![](/assets/images/lab_members/Ale.png){:height="200px" width="200px"}
+### Alejandra Dau Martinez
+adaumartinez@ucsd.edu  
+Master's Student  
+Phone: x4-0041, Room 2224A
 
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
 ### Nicholas Wilson
