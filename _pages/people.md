@@ -42,7 +42,7 @@ Phone: x4-0041, Room 2225B
 ![](/assets/images/lab_members/Albert.png){:height="200px" width="200px"}
 ### Albert Yang 
 akyang@ucsd.edu  
-PhD Student (bioengineering)   
+PhD Student (Bioengineering)   
 Phone: x4-0041, Room 2224A
 
 
