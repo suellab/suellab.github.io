@@ -44,13 +44,7 @@ Phone: x4-0041, Room 2225B
 akyang@ucsd.edu  
 PhD Student (Bioengineering)   
 Phone: x4-0041, Room 2224A
-
-
-![](/assets/images/lab_members/Ramina.png){:height="200px" width="200px"}
-### Ramina Amino
-ramino@ucsd.edu  
-Master's Student     
-Phone: x4-0041, Room 2225B 
+ 
 
 ![](/assets/images/lab_members/Ryan.png){:height="200px" width="200px"}
 ### Ryan Dogoldogol
