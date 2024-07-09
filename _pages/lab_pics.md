@@ -4,7 +4,19 @@ layout: single
 classes: wide
 
 gallery:
-  - url: /assets/images/lab_pics/MiniGolf.1.jpg
+    - url: /assets/images/lab_pics/Lab_Lunch3.jpg
+    image_path: /assets/images/lab_pics/Lab_Lunch3.jpg
+    title: "Lab Lunch, June 2024"
+    - url: /assets/images/lab_pics/Lab_lunch2.jpg
+    image_path: /assets/images/lab_pics/Lab_lunch2.jpg
+    title: "Lab Lunch,  November 2023"
+    - url: /assets/images/lab_pics/BeachBBQ.jpg
+    image_path: /assets/images/lab_pics/BeachBBQ.jpg
+    title: "Beach BBQ, June 2023"
+    - url: /assets/images/lab_pics/Lab_Lunch1.jpg
+    image_path: /assets/images/lab_pics/Lab_Lunch1.jpg
+    title: "Lab Lunch, November 2022"
+    - url: /assets/images/lab_pics/MiniGolf.1.jpg
     image_path: /assets/images/lab_pics/MiniGolf.1.jpg
     title: "Mini Golf lab meeting, December 2021"
   - url: /assets/images/lab_pics/social_distancing.jpg
