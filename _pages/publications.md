@@ -7,8 +7,8 @@ tags: []
 ---
 
 ## Journal Articles
-[Bioelectrical delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}
-Derchiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M. 
+[Bioelectrical delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"} 
+Derchiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
 Biomedical Materials & Devices (2024).   
 
 
