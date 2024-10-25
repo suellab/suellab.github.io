@@ -7,12 +7,16 @@ tags: []
 ---
 
 ## Journal Articles
+[Bioelectronic drug-free control of opportunistic pathogens through selective excitability](https://www.sciencedirect.com/science/article/pii/S2666998624005428){:target="_blank" rel="noopener"}  
+Kim, S., Eig, E., Yue, J., Yang, A., Comerci C.J, Laune, M., Yang, C., Kamath, A., Shi, J., Li, P., Cheng, Z., Sun, C., Guo, T., Tian, V., Süel G.M., Tian, B.    
+Device, 2024; 100596.
+
 [Bioelectronic tools for understanding the universal language of electrical signaling across species and kingdoms](https://www.sciencedirect.com/science/article/pii/S0956566324008509?dgcid=coauthor#abs0010){:target="_blank" rel="noopener"}  
 Shukla, S., Comerci C.J, Süel G.M., Jahed, Z.    
 Biosensors and Bioelectonics, 2025; Volume 267, 116843.
 
 
-[Bioelectrical delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}
+[Bioelectrical delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"} 
 Derchiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
 Biomedical Materials & Devices (2024).   
 
@@ -22,19 +26,15 @@ Kikuchi K.\*, Galera-Laporta L.\*, Weatherwax C., Lam J.y., Moon E.C., Theodorak
 (\*equal contributors)  
 Science, 2022; Volume 378, Issue 6615, P43-49.
 
-
 [Localized electrical stimulation triggers cell-type-specific proliferation in biofilms](https://www.sciencedirect.com/science/article/pii/S2405471222001661?dgcid=author){:target="_blank" rel="noopener"}  
 Comerci C.J\*, Gilman A.L.\*, Galera-Laporta L., Gutierrez E., Groisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell Systems, 2022; Volume 13, Issue 6, P488-498.E4.
-[Preview](https://bit.ly/38QnhBs)
-
 
 [A segmentation clock patterns cellular differentiation in a bacterial biofilm](https://www.sciencedirect.com/science/article/pii/S0092867421014045?dgcid=author){:target="_blank" rel="noopener"}  
 Chou K.T.\*, Lee D.D.\*, Chiou J.G.\*, Galera-Laporta L., Ly S., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell, 2022; Volume 185, Issue 1, P145-157.E13.  
-[Preview](https://bit.ly/3hkgZel)
 
 ## 2021
 [IonoBiology: The functional dynamics of the intracellular metallome, with lessons from bacteria](https://www.sciencedirect.com/science/article/abs/pii/S240547122100154X){:target="_blank" rel="noopener"}  
