@@ -20,7 +20,7 @@ Biosensors and Bioelectonics, 2025; Volume 267, 116843.
 Derchiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
 Biomedical Materials & Devices (2024).   
 
-
+## 2022
 [Electrochemical potential enables dormant spores to integrate environmental signals](https://www.science.org/doi/10.1126/science.abl7484){:target="_blank" rel="noopener"}  
 Kikuchi K.\*, Galera-Laporta L.\*, Weatherwax C., Lam J.y., Moon E.C., Theodorakis E.A., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
