@@ -4,6 +4,16 @@ title: "Press"
 layout: single
 
 ---
+![](/assets/images/press/USnews.jpg){: width="200px"}  
+[Skin patch uses 'imperceptible' electronic zaps to heal wounds without drugs](https://www.usnews.com/news/health-news/articles/2024-10-28/skin-patch-uses-imperceptible-electric-zaps-to-heal-wounds-without-drugs){:target="_blank" rel="noopener"}     
+By Dennis Thompson    
+October 28, 2024
+
+![](/assets/images/press/ucsd.jpg){: width="200px"}  
+[Innovative bioelectronic device offers new hope in the fight against bacterial infections](https://today.ucsd.edu/story/innovative-bioelectronic-device-offers-new-hope-in-the-fight-against-bacterial-infections){:target="_blank" rel="noopener"}     
+By Mario Aguilera    
+October 24, 2024
+
 ![](/assets/images/press/SVTNYHETER.JPG){: width="200px"}  
 [This is how deadly bacteria are awakened from their slumber](https://www.svt.se/nyheter/vetenskap/sa-vacks-dodliga-bakterier-fran-sin-supertaliga-dvala){:target="_blank" rel="noopener"}     
 By Hanna Källstig   
