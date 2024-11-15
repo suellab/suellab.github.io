@@ -7,6 +7,10 @@ tags: []
 ---
 
 ## Journal Articles
+[Physiological cost of antibiotic resistance: Insights from a ribosome variant in bacteria](https://www.science.org/doi/10.1126/sciadv.adq5249){:target="_blank" rel="noopener"}  
+Moon, E.C., Modi, T., Lee, D.D., Yangaliev, D.,Garcia-Ojalvo, J., Ozkan, S.B., Süel G.M.    
+Science Advances, 2024; Vol 10, Issue 46.
+
 [Bioelectronic drug-free control of opportunistic pathogens through selective excitability](https://www.sciencedirect.com/science/article/pii/S2666998624005428){:target="_blank" rel="noopener"}  
 Kim, S., Eig, E., Yue, J., Yang, A., Comerci C.J, Laune, M., Yang, C., Kamath, A., Shi, J., Li, P., Cheng, Z., Sun, C., Guo, T., Tian, V., Süel G.M., Tian, B.    
 Device, 2024; 100596.
