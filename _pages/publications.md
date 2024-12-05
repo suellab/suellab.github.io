@@ -7,6 +7,11 @@ tags: []
 ---
 
 ## Journal Articles
+[Intrinsically robust and scalable biofilm segmentation under diverse physical growth conditions](https://www.sciencedirect.com/science/article/pii/S2589004224026117){:target="_blank" rel="noopener"}  
+Chiou, J.G.\*, Chou, K.T.\*, Garcia-Ojalvo, J., Süel G.M.
+(\*equal contributors)     
+iScience, 2024; Vol 27, Issue 12.
+
 [Physiological cost of antibiotic resistance: Insights from a ribosome variant in bacteria](https://www.science.org/doi/10.1126/sciadv.adq5249){:target="_blank" rel="noopener"}  
 Moon, E.C., Modi, T., Lee, D.D., Yangaliev, D.,Garcia-Ojalvo, J., Ozkan, S.B., Süel G.M.    
 Science Advances, 2024; Vol 10, Issue 46.
@@ -31,7 +36,7 @@ Kikuchi K.\*, Galera-Laporta L.\*, Weatherwax C., Lam J.y., Moon E.C., Theodorak
 Science, 2022; Volume 378, Issue 6615, P43-49.
 
 [Localized electrical stimulation triggers cell-type-specific proliferation in biofilms](https://www.sciencedirect.com/science/article/pii/S2405471222001661?dgcid=author){:target="_blank" rel="noopener"}  
-Comerci C.J\*, Gilman A.L.\*, Galera-Laporta L., Gutierrez E., Groisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
+Comerci C.J.\*, Gilman A.L.\*, Galera-Laporta L., Gutierrez E., Groisman A., Larkin J.W., Garcia-Ojalvo J., Süel G.M.  
 (\*equal contributors)  
 Cell Systems, 2022; Volume 13, Issue 6, P488-498.E4.
 
