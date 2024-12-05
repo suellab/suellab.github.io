@@ -8,8 +8,7 @@ tags: []
 
 ## Journal Articles
 [Intrinsically robust and scalable biofilm segmentation under diverse physical growth conditions](https://www.sciencedirect.com/science/article/pii/S2589004224026117){:target="_blank" rel="noopener"}  
-Chiou, J.G.\*, Chou, K.T.\*, Garcia-Ojalvo, J., Süel G.M.
-
+Chiou, J.G.\*, Chou, K.T.\*, Garcia-Ojalvo, J., Süel G.M.              
 (\*equal contributors)     
 iScience, 2024; Vol 27, Issue 12.
 
