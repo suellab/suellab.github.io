@@ -51,18 +51,6 @@ PhD Student (Bioengineering)
 Phone: x4-0041, Room 2224A
  
 
-![](/assets/images/lab_members/Ryan.png){:height="200px" width="200px"}
-### Ryan Dogoldogol
-rdogoldo@ucsd.edu  
-Master's Student  
-Phone: x4-0041, Room 2225B
-
-![](/assets/images/lab_members/Ale.png){:height="200px" width="200px"}
-### Alejandra Dau Martinez
-adaumartinez@ucsd.edu  
-Master's Student  
-Phone: x4-0041, Room 2224A
-
 ![](/assets/images/lab_members/Arvind.png){:height="200px" width="200px"}
 ### Arvind Gouttumukkala
 agouttumukkala@ucsd.edu  
