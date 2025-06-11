@@ -25,6 +25,11 @@ ccomerci@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A  
 
+![](/assets/images/lab_members/Zhe.png){:height="200px" width="200px"}
+### Zhe Zhao, PhD
+zhz204@ucsd.edu 
+Postdoctoral Researcher  
+Phone: x4-0041, Room 2224A  
 
 ![](/assets/images/lab_members/Todd.png){:height="200px" width="200px"}
 ### Todd Kwang-Tao Chou
