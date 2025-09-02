@@ -25,8 +25,8 @@ Shukla, S., Comerci C.J, Süel G.M., Jahed, Z.
 Biosensors and Bioelectonics, 2025; Volume 267, 116843.
 
 
-[Bioelectrical delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}                      
-Derchiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
+[Bioelectrionic delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}                      
+Dechiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
 Biomedical Materials & Devices (2024).   
 
 ## 2022
