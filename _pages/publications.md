@@ -7,8 +7,12 @@ tags: []
 ---
 
 ## Journal Articles
+[Computational model of fractal interface formation in bacterial biofilms](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1103%2F2zm9-r3qs){:target="_blank" rel="noopener"}  
+Larkin, J., Brooks, C., Meiyi Yao, McCool, J.T., Süel, G.M., Mugler, A.J., Gillman, A.    
+American Physical Society (APS), 2025.
+
 [Bioelectronic tools for understanding the universal language of electrical signaling across species and kingdoms](https://www.sciencedirect.com/science/article/pii/S0956566324008509?dgcid=coauthor#abs0010){:target="_blank" rel="noopener"}  
-Shukla, S., Comerci C.J, Süel G.M., Jahed, Z.    
+Shukla, S., Comerci, C.J, Süel, G.M., Jahed, Z.    
 Biosensors and Bioelectonics, 2025; Volume 267, 116843.
 
 ## 2024
