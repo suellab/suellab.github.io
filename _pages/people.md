@@ -18,7 +18,6 @@ lgaleralaporta@ucsd.edu
 Postdoctoral Researcher  
 Phone: x4-0041, Room 2224A
 
-
 ![](/assets/images/lab_members/Colin.png){:height="200px" width="200px"}
 ### Colin Comerci, PhD
 ccomerci@ucsd.edu  
