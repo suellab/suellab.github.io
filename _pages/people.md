@@ -51,12 +51,6 @@ PhD Student (Bioengineering)
 Phone: x4-0041, Room 2224A
  
 
-![](/assets/images/lab_members/Arvind.png){:height="200px" width="200px"}
-### Arvind Gouttumukkala
-agouttumukkala@ucsd.edu  
-Master's Student  
-Phone: x4-0041, Room 2224A
-
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
 ### Nicholas Wilson
 nlwilson@ucsd.edu  
