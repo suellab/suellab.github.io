@@ -9,8 +9,8 @@ tags: []
 ## Journal Articles
 ## 2025
 [Computational model of fractal interface formation in bacterial biofilms](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1103%2F2zm9-r3qs){:target="_blank" rel="noopener"}  
-Larkin, J., Brooks, C., Meiyi Yao, McCool, J.T., Süel, G.M., Mugler, A.J., Gillman, A.    
-American Physical Society (APS), 2025.
+Brooks, C., Yao, M., McCool, J.T., Gillman, A., Süel, G.M., Mugler, A.J., Larkin, J.     
+Physical Review E, 2025.
 
 [Bioelectronic tools for understanding the universal language of electrical signaling across species and kingdoms](https://www.sciencedirect.com/science/article/pii/S0956566324008509?dgcid=coauthor#abs0010){:target="_blank" rel="noopener"}  
 Shukla, S., Comerci, C.J, Süel, G.M., Jahed, Z.    
@@ -18,7 +18,7 @@ Biosensors and Bioelectonics, 2025; Volume 267, 116843.
 
 ## 2024
 [Intrinsically robust and scalable biofilm segmentation under diverse physical growth conditions](https://www.sciencedirect.com/science/article/pii/S2589004224026117){:target="_blank" rel="noopener"}  
-Chiou, J.G.\*, Chou, K.T.\*, Garcia-Ojalvo, J., Süel G.M.              
+Chiou, J.G.\*, Chou, T.K.\*, Garcia-Ojalvo, J., Süel G.M.              
 (\*equal contributors)     
 iScience, 2024; Vol 27, Issue 12.
 
@@ -32,7 +32,7 @@ Device, 2024; 100596.
 
 [Bioelectrionic delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}                      
 Dechiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
-Biomedical Materials & Devices (2024).   
+Biomedical Materials & Devices, 2024.   
 
 ## 2022
 [Electrochemical potential enables dormant spores to integrate environmental signals](https://www.science.org/doi/10.1126/science.abl7484){:target="_blank" rel="noopener"}  
