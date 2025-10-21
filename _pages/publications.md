@@ -30,7 +30,7 @@ Science Advances, 2024; Vol 10, Issue 46.
 Kim, S., Eig, E., Yue, J., Yang, A., Comerci C.J, Laune, M., Yang, C., Kamath, A., Shi, J., Li, P., Cheng, Z., Sun, C., Guo, T., Tian, V., Süel G.M., Tian, B.    
 Device, 2024; 100596.
 
-[Bioelectrionic delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}                      
+[Bioelectronic delivery of potassium ions controls membrane voltage and growth dynamics in bacteria biofilms](https://doi.org/10.1007/s44174-024-00209-w){:target="_blank" rel="noopener"}                      
 Dechiraju, H., Li, Y., Comerci, C., Luo, L., Figuerres, S., Asefi, N., Trevino, A., Barbee, A., Tebyani, M., Baniya,P., Teodorescu, M., Süel G.M., Rolandi, M.       
 Biomedical Materials & Devices, 2024.   
 
