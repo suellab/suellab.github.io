@@ -7,6 +7,11 @@ tags: []
 ---
 
 ## Journal Articles
+## 2026
+[Enantiomer sensing enables social avoidance by bacterial spores](https://www.sciencedirect.com/science/article/pii/S2589004226003421?via%3Dihub){:target="_blank" rel="noopener"}  
+Comerci, C.J., Chou, T.K., Amino, R., Bialecka, M., Garcia-Ojalvo, J., Süel, G.M.    
+iScience, 2026, Vol 29, Issue 3.
+
 ## 2025
 [Computational model of fractal interface formation in bacterial biofilms](https://journals.aps.org/pre/abstract/10.1103/2zm9-r3qs){:target="_blank" rel="noopener"}  
 Brooks, C., Yao, M., McCool, J.T., Gillman, A., Süel, G.M., Mugler, A.J., Larkin, J.     
