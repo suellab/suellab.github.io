@@ -41,7 +41,13 @@ Phone: x4-0041, Room 2224A
 ![](/assets/images/lab_members/Luqi.png){:height="200px" width="200px"}
 ### Luqi Liu 
 lul024@ucsd.edu  
-Master's Student    
+Master's Student (Molecular Biology)     
+Phone: x4-0041, Room 2225B
+
+![](/assets/images/lab_members/Ben.png){:height="200px" width="200px"}
+### Ben Moskowitz 
+bmoskowitz@ucsd.edu  
+Master's Student (Bioengineering)    
 Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
