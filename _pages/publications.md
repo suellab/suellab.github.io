@@ -8,6 +8,10 @@ tags: []
 
 ## Journal Articles
 ## 2026
+[Ribosomal Allostery as a Potential Regulator of Bacterial Dormancy](){:target="_blank" rel="noopener"}  
+Yangaliev, D., Moon, E.C., Süel, G.M., Ozkan, S.B.    
+Nature Communication, 2026, in press.
+
 [Enantiomer sensing enables social avoidance by bacterial spores](https://www.sciencedirect.com/science/article/pii/S2589004226003421?via%3Dihub){:target="_blank" rel="noopener"}  
 Comerci, C.J., Chou, T.K., Amino, R., Bialecka, M., Garcia-Ojalvo, J., Süel, G.M.    
 iScience, 2026, Vol 29, Issue 3.
