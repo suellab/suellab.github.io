@@ -44,11 +44,6 @@ lul024@ucsd.edu
 Master's Student (Molecular Biology)     
 Phone: x4-0041, Room 2225B
 
-![](/assets/images/lab_members/Ben.png){:height="200px" width="200px"}
-### Ben Moskowitz 
-bmoskowitz@ucsd.edu  
-Master's Student (Bioengineering)    
-Phone: x4-0041, Room 2225B
 
 ![](/assets/images/lab_members/Nicholas.png){:height="200px" width="200px"}
 ### Nicholas Wilson
