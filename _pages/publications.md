@@ -8,6 +8,10 @@ tags: []
 
 ## Journal Articles
 ## 2026
+[Self-generated hydrogel ejects bacterial cells for localized biofilm dispersion](https://www.nature.com/articles/s41564-026-02413-4){:target="_blank" rel="noopener"}  
+Chou, T.K., Dau-Martinez, A., Vicens-Figueres, J., Gouttumukkala, A., Galera-Laporta, L., Garcia-Ojalvo, J., Süel, G.M.    
+Nature Microbiology, 2026.
+
 [Ribosomal Allostery as a Potential Regulator of Bacterial Dormancy](https://www.nature.com/articles/s41467-026-74199-2){:target="_blank" rel="noopener"}  
 Yangaliev, D., Moon, E.C., Süel, G.M., Ozkan, S.B.    
 Nature Communication, 2026, in press.
