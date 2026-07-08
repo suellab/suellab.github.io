@@ -14,7 +14,7 @@ Nature Microbiology, 2026.
 
 [Ribosomal Allostery as a Potential Regulator of Bacterial Dormancy](https://www.nature.com/articles/s41467-026-74199-2){:target="_blank" rel="noopener"}  
 Yangaliev, D., Moon, E.C., Süel, G.M., Ozkan, S.B.    
-Nature Communication, 2026, in press.
+Nature Communication, 2026.
 
 [Enantiomer sensing enables social avoidance by bacterial spores](https://www.sciencedirect.com/science/article/pii/S2589004226003421?via%3Dihub){:target="_blank" rel="noopener"}  
 Comerci, C.J., Chou, T.K., Amino, R., Bialecka, M., Garcia-Ojalvo, J., Süel, G.M.    
