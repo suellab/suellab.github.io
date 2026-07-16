@@ -4,6 +4,11 @@ title: "Press"
 layout: single
 
 ---
+![](/assets/images/press/Science.JPG){: width="200px"}  
+[Bacteria clusters can eject ‘escape pods’ to survive](https://www.science.org/content/article/bacteria-clusters-can-eject-escape-pods-survive){:target="_blank" rel="noopener"}     
+By Julia Vaz    
+July 16, 2026
+
 ![](/assets/images/press/USnews.JPG){: width="200px"}  
 [Skin patch uses 'imperceptible' electronic zaps to heal wounds without drugs](https://www.usnews.com/news/health-news/articles/2024-10-28/skin-patch-uses-imperceptible-electric-zaps-to-heal-wounds-without-drugs){:target="_blank" rel="noopener"}     
 By Dennis Thompson    
