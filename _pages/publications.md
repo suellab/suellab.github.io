@@ -9,7 +9,6 @@ tags: []
 ## Journal Articles
 ## 2026
 [Bioelectronic Delivery of Ions and Small Molecules Modulates Growth in Bacteria Biofilms](https://link.springer.com/article/10.1007/s44174-026-00791-1){:target="_blank" rel="noopener"}
-
 Luka, G., Figuerres, S., Kim, S., Pirzada, S., Li, H., Comerci, C., Süel, G.M., Asally, M., Rolandi, M.    
 Biomedical Materials & Devices, 2026.
 
